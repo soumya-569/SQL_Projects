@@ -32,7 +32,7 @@ Each folder in this repo contains a **self-contained SQL project** with the foll
 
 ## 📂 Project Structure
 
-```
+```bash
 sql_projects/
 │
 ├── project_1_sales_analysis/
