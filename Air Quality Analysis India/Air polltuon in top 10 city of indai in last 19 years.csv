@@ -1,0 +1,1446 @@
+Unique ID,District,Date,Measure,Longitude,Latitude,Time Period,Data Value,Air Quality
+01BBF6AD,Mumbai,01-12-2010,NO2 (ppb),72.8777,19.076,Monthly,32,Moderate
+00ED349D,Kolkata,01-10-2011,PM10 (µg/m³),88.3639,22.5726,Monthly,107,Poor
+01EA78C9,Bengaluru,01-12-2008,PM10 (µg/m³),77.5946,12.9716,Monthly,178,Very Poor
+0164FDF7,Chennai,01-08-2014,NO2 (ppb),80.2707,13.0827,Monthly,49,Moderate
+0244B8FE,Chennai,01-07-2013,NO2 (ppb),80.2707,13.0827,Monthly,9,Good
+01FF75BF,Delhi,01-04-2018,SO2 (ppb),77.1025,28.7041,Monthly,37,Moderate
+00EF0055,Kolkata,01-02-2011,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,45,Good
+01B78829,Bengaluru,01-12-2007,NO2 (ppb),77.5946,12.9716,Monthly,34,Moderate
+014F4102,Bengaluru,01-05-2017,PM2.5 (µg/m³),77.5946,12.9716,Monthly,58,Moderate
+00EC0414,Kolkata,01-12-2022,PM2.5 (µg/m³),88.3639,22.5726,Monthly,173,Very Poor
+0083025A,Mumbai,01-05-2004,SO2 (ppb),72.8777,19.076,Monthly,44,Moderate
+021B3031,Bengaluru,01-08-2009,PM2.5 (µg/m³),77.5946,12.9716,Monthly,65,Moderate
+005503F2,Delhi,01-07-2020,PM10 (µg/m³),77.1025,28.7041,Monthly,51,Moderate
+01146F20,Kolkata,01-04-2006,PM10 (µg/m³),88.3639,22.5726,Monthly,51,Moderate
+012D24EC,Kolkata,01-01-2012,NO2 (ppb),88.3639,22.5726,Monthly,46,Moderate
+007B4B38,Kolkata,01-12-2001,PM2.5 (µg/m³),88.3639,22.5726,Monthly,126,Poor
+01261250,Kolkata,01-11-2022,PM2.5 (µg/m³),88.3639,22.5726,Monthly,110,Poor
+00DA092A,Delhi,01-01-2014,PM10 (µg/m³),77.1025,28.7041,Monthly,91,Moderate
+00F7CBA3,Kolkata,01-03-2002,PM10 (µg/m³),88.3639,22.5726,Monthly,162,Very Poor
+023AB271,Chennai,01-04-2022,NO2 (ppb),80.2707,13.0827,Monthly,25,Good
+00E10510,Mumbai,01-10-2002,SO2 (ppb),72.8777,19.076,Monthly,23,Good
+00DBDE76,Bengaluru,01-10-2005,NO2 (ppb),77.5946,12.9716,Monthly,26,Good
+010050CE,Kolkata,01-03-2021,PM2.5 (µg/m³),88.3639,22.5726,Monthly,186,Very Poor
+01546AF2,Chennai,01-12-2022,PM10 (µg/m³),80.2707,13.0827,Monthly,127,Poor
+0189481F,Kolkata,01-02-2013,PM2.5 (µg/m³),88.3639,22.5726,Monthly,57,Moderate
+0158BA6D,Bengaluru,01-01-2006,PM2.5 (µg/m³),77.5946,12.9716,Monthly,143,Poor
+010D1BCD,Mumbai,01-11-2020,SO2 (ppb),72.8777,19.076,Monthly,50,Moderate
+026ABD08,Mumbai,01-02-2014,PM2.5 (µg/m³),72.8777,19.076,Monthly,138,Poor
+00AD10C1,Bengaluru,01-02-2014,PM10 (µg/m³),77.5946,12.9716,Monthly,85,Moderate
+02842703,Mumbai,01-08-2007,PM2.5 (µg/m³),72.8777,19.076,Monthly,170,Very Poor
+017914E7,Mumbai,01-07-2007,PM2.5 (µg/m³),72.8777,19.076,Monthly,149,Poor
+00604AF6,Bengaluru,01-11-2001,SO2 (ppb),77.5946,12.9716,Monthly,37,Moderate
+01C7481B,Delhi,01-12-2020,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,38,Good
+01EFA687,Kolkata,01-05-2013,SO2 (ppb),88.3639,22.5726,Monthly,24,Good
+00B57E47,Bengaluru,01-11-2012,PM10 (µg/m³),77.5946,12.9716,Monthly,115,Poor
+00CEDCDB,Bengaluru,01-06-2021,PM2.5 (µg/m³),77.5946,12.9716,Monthly,102,Poor
+0130AFCE,Chennai,01-12-2007,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,20,Good
+019F46CD,Delhi,01-02-2011,PM10 (µg/m³),77.1025,28.7041,Monthly,133,Poor
+021EEB37,Mumbai,01-12-2011,"Ozone (O3, ppb)",72.8777,19.076,Monthly,65,Moderate
+01701B02,Delhi,01-09-2018,PM10 (µg/m³),77.1025,28.7041,Monthly,50,Moderate
+00017E19,Kolkata,01-09-2019,PM10 (µg/m³),88.3639,22.5726,Monthly,156,Very Poor
+01FB8D9E,Chennai,01-06-2017,PM2.5 (µg/m³),80.2707,13.0827,Monthly,176,Very Poor
+003A7416,Kolkata,01-01-2016,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,21,Good
+00C72814,Bengaluru,01-11-2005,PM2.5 (µg/m³),77.5946,12.9716,Monthly,139,Poor
+01E3D28A,Mumbai,01-09-2004,"Ozone (O3, ppb)",72.8777,19.076,Monthly,34,Good
+017970AC,Chennai,01-07-2022,PM2.5 (µg/m³),80.2707,13.0827,Monthly,126,Poor
+003B7FE0,Chennai,01-03-2016,PM10 (µg/m³),80.2707,13.0827,Monthly,61,Moderate
+022CCB62,Delhi,01-08-2015,SO2 (ppb),77.1025,28.7041,Monthly,21,Good
+00142C5A,Mumbai,01-06-2015,"Ozone (O3, ppb)",72.8777,19.076,Monthly,46,Good
+003D5558,Bengaluru,01-01-2016,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,47,Good
+017564DB,Bengaluru,01-08-2017,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,48,Good
+0064EB66,Kolkata,01-12-2020,PM10 (µg/m³),88.3639,22.5726,Monthly,74,Moderate
+018B367F,Bengaluru,01-08-2012,NO2 (ppb),77.5946,12.9716,Monthly,37,Moderate
+00AFEE76,Bengaluru,01-03-2006,PM2.5 (µg/m³),77.5946,12.9716,Monthly,140,Poor
+0160F0C7,Chennai,01-12-2010,PM10 (µg/m³),80.2707,13.0827,Monthly,131,Poor
+01A5895A,Bengaluru,01-06-2006,PM10 (µg/m³),77.5946,12.9716,Monthly,115,Poor
+007481B0,Chennai,01-03-2006,NO2 (ppb),80.2707,13.0827,Monthly,15,Good
+00A7A002,Delhi,01-12-2021,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,24,Good
+01E393BB,Mumbai,01-01-2022,PM2.5 (µg/m³),72.8777,19.076,Monthly,107,Poor
+00794DF7,Delhi,01-12-2005,SO2 (ppb),77.1025,28.7041,Monthly,9,Good
+0157C443,Mumbai,01-07-2001,SO2 (ppb),72.8777,19.076,Monthly,50,Moderate
+01A8391C,Delhi,01-06-2010,NO2 (ppb),77.1025,28.7041,Monthly,22,Good
+004940C3,Bengaluru,01-04-2015,PM10 (µg/m³),77.5946,12.9716,Monthly,158,Very Poor
+003EE43D,Kolkata,01-05-2011,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,82,Moderate
+006C13DA,Bengaluru,01-08-2002,SO2 (ppb),77.5946,12.9716,Monthly,39,Moderate
+02135A16,Chennai,01-01-2010,NO2 (ppb),80.2707,13.0827,Monthly,37,Moderate
+0111F5A3,Mumbai,01-04-2001,PM10 (µg/m³),72.8777,19.076,Monthly,126,Poor
+01B3B0A9,Bengaluru,01-04-2002,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,42,Good
+014FBB0A,Mumbai,01-04-2007,PM2.5 (µg/m³),72.8777,19.076,Monthly,71,Moderate
+00BD5C22,Kolkata,01-10-2000,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,98,Moderate
+014E0D7F,Kolkata,01-03-2000,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,27,Good
+013102B1,Chennai,01-01-2013,SO2 (ppb),80.2707,13.0827,Monthly,25,Good
+021535A4,Kolkata,01-09-2014,PM2.5 (µg/m³),88.3639,22.5726,Monthly,77,Moderate
+00B51973,Mumbai,01-06-2023,NO2 (ppb),72.8777,19.076,Monthly,23,Good
+0223EFF1,Delhi,01-03-2007,PM2.5 (µg/m³),77.1025,28.7041,Monthly,145,Poor
+028E3A71,Delhi,01-05-2002,PM2.5 (µg/m³),77.1025,28.7041,Monthly,130,Poor
+00275230,Chennai,01-11-2018,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,34,Good
+01723D0D,Kolkata,01-01-2015,PM2.5 (µg/m³),88.3639,22.5726,Monthly,122,Poor
+026C4C64,Kolkata,01-08-2006,SO2 (ppb),88.3639,22.5726,Monthly,21,Good
+0217C554,Delhi,01-10-2011,SO2 (ppb),77.1025,28.7041,Monthly,41,Moderate
+014BF43E,Bengaluru,01-12-2012,PM10 (µg/m³),77.5946,12.9716,Monthly,194,Very Poor
+0059F9C2,Delhi,01-05-2012,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,83,Moderate
+00A908EF,Delhi,01-09-2021,SO2 (ppb),77.1025,28.7041,Monthly,48,Moderate
+01008643,Bengaluru,01-12-2010,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,45,Good
+0132C22B,Delhi,01-08-2021,NO2 (ppb),77.1025,28.7041,Monthly,10,Good
+012E6C9F,Mumbai,01-02-2003,PM2.5 (µg/m³),72.8777,19.076,Monthly,152,Very Poor
+027C588B,Mumbai,01-01-2003,NO2 (ppb),72.8777,19.076,Monthly,37,Moderate
+00DCED15,Chennai,01-12-2023,PM2.5 (µg/m³),80.2707,13.0827,Monthly,61,Moderate
+00E3D44F,Delhi,01-06-2007,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,49,Good
+008D3569,Delhi,01-11-2019,NO2 (ppb),77.1025,28.7041,Monthly,34,Moderate
+02412344,Kolkata,01-01-2011,PM2.5 (µg/m³),88.3639,22.5726,Monthly,198,Very Poor
+02056DF1,Bengaluru,01-07-2003,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,83,Moderate
+00836E56,Chennai,01-09-2002,SO2 (ppb),80.2707,13.0827,Monthly,20,Good
+02899A4F,Bengaluru,01-01-2008,PM10 (µg/m³),77.5946,12.9716,Monthly,77,Moderate
+012B2DA3,Kolkata,01-12-2012,PM2.5 (µg/m³),88.3639,22.5726,Monthly,101,Poor
+00D2085F,Mumbai,01-04-2000,NO2 (ppb),72.8777,19.076,Monthly,11,Good
+00440C22,Bengaluru,01-08-2005,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,53,Good
+023B3084,Kolkata,01-03-2019,NO2 (ppb),88.3639,22.5726,Monthly,35,Moderate
+00F3A410,Mumbai,01-11-2021,"Ozone (O3, ppb)",72.8777,19.076,Monthly,50,Good
+0099F5ED,Kolkata,01-04-2001,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,31,Good
+016C18F5,Bengaluru,01-07-2023,PM2.5 (µg/m³),77.5946,12.9716,Monthly,176,Very Poor
+0134D3F9,Kolkata,01-10-2018,NO2 (ppb),88.3639,22.5726,Monthly,48,Moderate
+02666DCE,Chennai,01-03-2004,NO2 (ppb),80.2707,13.0827,Monthly,33,Moderate
+00497DDE,Chennai,01-02-2015,SO2 (ppb),80.2707,13.0827,Monthly,14,Good
+00551677,Bengaluru,01-10-2023,NO2 (ppb),77.5946,12.9716,Monthly,14,Good
+0213E7C1,Bengaluru,01-12-2003,SO2 (ppb),77.5946,12.9716,Monthly,24,Good
+02399E36,Mumbai,01-04-2020,SO2 (ppb),72.8777,19.076,Monthly,35,Moderate
+026A97C3,Delhi,01-04-2006,SO2 (ppb),77.1025,28.7041,Monthly,46,Moderate
+0090B6E7,Kolkata,01-08-2003,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,21,Good
+02886C55,Kolkata,01-08-2015,PM10 (µg/m³),88.3639,22.5726,Monthly,87,Moderate
+01068A2D,Chennai,01-12-2009,NO2 (ppb),80.2707,13.0827,Monthly,9,Good
+0196B327,Kolkata,01-03-2007,PM10 (µg/m³),88.3639,22.5726,Monthly,187,Very Poor
+0284E573,Chennai,01-12-2012,PM10 (µg/m³),80.2707,13.0827,Monthly,90,Moderate
+00E6FB5A,Chennai,01-09-2005,PM2.5 (µg/m³),80.2707,13.0827,Monthly,129,Poor
+009EC47B,Delhi,01-06-2021,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,63,Moderate
+00775797,Bengaluru,01-05-2003,PM10 (µg/m³),77.5946,12.9716,Monthly,92,Moderate
+0014ED6A,Mumbai,01-02-2012,SO2 (ppb),72.8777,19.076,Monthly,14,Good
+00EBA29E,Kolkata,01-03-2022,PM10 (µg/m³),88.3639,22.5726,Monthly,82,Moderate
+01EED0A6,Delhi,01-12-2022,NO2 (ppb),77.1025,28.7041,Monthly,37,Moderate
+00270179,Kolkata,01-06-2005,PM2.5 (µg/m³),88.3639,22.5726,Monthly,101,Poor
+00B551BD,Delhi,01-12-2023,NO2 (ppb),77.1025,28.7041,Monthly,23,Good
+00FE1FD1,Kolkata,01-03-2015,NO2 (ppb),88.3639,22.5726,Monthly,48,Moderate
+012ADE11,Delhi,01-03-2010,SO2 (ppb),77.1025,28.7041,Monthly,21,Good
+00FFBAD0,Kolkata,01-01-2010,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,82,Moderate
+0169DD1C,Delhi,01-01-2020,NO2 (ppb),77.1025,28.7041,Monthly,29,Good
+01FD11DB,Chennai,01-08-2019,NO2 (ppb),80.2707,13.0827,Monthly,37,Moderate
+006DB39D,Chennai,01-09-2008,PM2.5 (µg/m³),80.2707,13.0827,Monthly,133,Poor
+00E567DE,Delhi,01-10-2001,PM10 (µg/m³),77.1025,28.7041,Monthly,143,Poor
+00BBFDED,Delhi,01-04-2017,PM2.5 (µg/m³),77.1025,28.7041,Monthly,189,Very Poor
+028B50B3,Delhi,01-04-2009,NO2 (ppb),77.1025,28.7041,Monthly,12,Good
+010F154D,Bengaluru,01-07-2006,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,78,Moderate
+015CA389,Delhi,01-01-2003,PM10 (µg/m³),77.1025,28.7041,Monthly,192,Very Poor
+0152F0F6,Bengaluru,01-07-2009,PM2.5 (µg/m³),77.5946,12.9716,Monthly,65,Moderate
+0145FADF,Delhi,01-09-2005,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,26,Good
+026CAEE1,Kolkata,01-08-2016,NO2 (ppb),88.3639,22.5726,Monthly,50,Moderate
+0011B96A,Delhi,01-07-2021,NO2 (ppb),77.1025,28.7041,Monthly,30,Good
+00682C12,Delhi,01-03-2008,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,93,Moderate
+00453F8B,Kolkata,01-12-2002,NO2 (ppb),88.3639,22.5726,Monthly,24,Good
+01BD572A,Mumbai,01-04-2008,PM2.5 (µg/m³),72.8777,19.076,Monthly,81,Moderate
+0157F4F0,Bengaluru,01-04-2016,SO2 (ppb),77.5946,12.9716,Monthly,9,Good
+00C29CD8,Chennai,01-01-2002,PM2.5 (µg/m³),80.2707,13.0827,Monthly,111,Poor
+003785E3,Chennai,01-01-2023,PM2.5 (µg/m³),80.2707,13.0827,Monthly,158,Very Poor
+02416788,Kolkata,01-05-2003,SO2 (ppb),88.3639,22.5726,Monthly,20,Good
+0241ACE8,Mumbai,01-07-2009,SO2 (ppb),72.8777,19.076,Monthly,33,Moderate
+00562C93,Delhi,01-10-2014,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,88,Moderate
+0255EF73,Bengaluru,01-06-2013,PM10 (µg/m³),77.5946,12.9716,Monthly,86,Moderate
+012A5621,Chennai,01-10-2011,SO2 (ppb),80.2707,13.0827,Monthly,44,Moderate
+0122BAA5,Delhi,01-08-2019,PM10 (µg/m³),77.1025,28.7041,Monthly,173,Very Poor
+007416CC,Mumbai,01-08-2011,NO2 (ppb),72.8777,19.076,Monthly,41,Moderate
+01F52BC3,Mumbai,01-10-2022,PM2.5 (µg/m³),72.8777,19.076,Monthly,63,Moderate
+02416D26,Bengaluru,01-02-2018,NO2 (ppb),77.5946,12.9716,Monthly,21,Good
+01065DFC,Chennai,01-12-2004,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,97,Moderate
+00586CEE,Delhi,01-05-2010,PM2.5 (µg/m³),77.1025,28.7041,Monthly,138,Poor
+01F4C6B4,Delhi,01-06-2017,NO2 (ppb),77.1025,28.7041,Monthly,6,Good
+011B908C,Bengaluru,01-10-2000,NO2 (ppb),77.5946,12.9716,Monthly,27,Good
+00E3B7DD,Chennai,01-04-2005,PM2.5 (µg/m³),80.2707,13.0827,Monthly,160,Very Poor
+0054CD61,Mumbai,01-06-2013,SO2 (ppb),72.8777,19.076,Monthly,24,Good
+0131853A,Delhi,01-05-2007,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,40,Good
+005E7727,Chennai,01-04-2019,NO2 (ppb),80.2707,13.0827,Monthly,44,Moderate
+0062BEB0,Kolkata,01-05-2009,PM10 (µg/m³),88.3639,22.5726,Monthly,96,Moderate
+00F94B1C,Chennai,01-10-2006,PM2.5 (µg/m³),80.2707,13.0827,Monthly,72,Moderate
+02866D8C,Kolkata,01-03-2020,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,92,Moderate
+0065784D,Mumbai,01-08-2009,PM10 (µg/m³),72.8777,19.076,Monthly,188,Very Poor
+01D56FFD,Bengaluru,01-06-2002,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,65,Moderate
+01E2DC22,Kolkata,01-09-2016,SO2 (ppb),88.3639,22.5726,Monthly,17,Good
+00AA8237,Chennai,01-11-2012,SO2 (ppb),80.2707,13.0827,Monthly,49,Moderate
+0160DF7F,Chennai,01-03-2023,NO2 (ppb),80.2707,13.0827,Monthly,32,Moderate
+01A6E38E,Chennai,01-10-2023,NO2 (ppb),80.2707,13.0827,Monthly,25,Good
+01FC748F,Bengaluru,01-01-2017,PM10 (µg/m³),77.5946,12.9716,Monthly,197,Very Poor
+0038585A,Delhi,01-07-2003,NO2 (ppb),77.1025,28.7041,Monthly,12,Good
+016B64DE,Chennai,01-08-2021,PM10 (µg/m³),80.2707,13.0827,Monthly,136,Poor
+0284C1BD,Bengaluru,01-08-2018,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,40,Good
+00B00E05,Bengaluru,01-05-2005,PM10 (µg/m³),77.5946,12.9716,Monthly,53,Moderate
+00F0F0C7,Bengaluru,01-08-2022,SO2 (ppb),77.5946,12.9716,Monthly,31,Moderate
+00FC1464,Chennai,01-07-2001,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,77,Moderate
+00F74336,Chennai,01-12-2021,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,92,Moderate
+01CB8F4B,Bengaluru,01-02-2003,PM10 (µg/m³),77.5946,12.9716,Monthly,125,Poor
+0077D031,Mumbai,01-05-2021,NO2 (ppb),72.8777,19.076,Monthly,14,Good
+0234DB3E,Bengaluru,01-09-2013,PM2.5 (µg/m³),77.5946,12.9716,Monthly,131,Poor
+0228555B,Delhi,01-10-2022,PM10 (µg/m³),77.1025,28.7041,Monthly,106,Poor
+0182C878,Bengaluru,01-12-2023,NO2 (ppb),77.5946,12.9716,Monthly,44,Moderate
+008EE2AB,Kolkata,01-11-2011,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,43,Good
+01329073,Chennai,01-12-2019,PM10 (µg/m³),80.2707,13.0827,Monthly,198,Very Poor
+021724DD,Delhi,01-12-2017,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,39,Good
+00EEA5C2,Bengaluru,01-08-2010,PM2.5 (µg/m³),77.5946,12.9716,Monthly,141,Poor
+014AB98D,Bengaluru,01-10-2010,PM10 (µg/m³),77.5946,12.9716,Monthly,91,Moderate
+01ED2959,Bengaluru,01-06-2008,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,91,Moderate
+00A325DD,Bengaluru,01-03-2010,PM2.5 (µg/m³),77.5946,12.9716,Monthly,105,Poor
+019077AE,Kolkata,01-05-2018,PM10 (µg/m³),88.3639,22.5726,Monthly,117,Poor
+01D2ABA0,Bengaluru,01-12-2019,PM10 (µg/m³),77.5946,12.9716,Monthly,160,Very Poor
+021A2DF2,Kolkata,01-08-2018,NO2 (ppb),88.3639,22.5726,Monthly,5,Good
+024E9519,Bengaluru,01-10-2002,SO2 (ppb),77.5946,12.9716,Monthly,48,Moderate
+02101707,Chennai,01-11-2020,NO2 (ppb),80.2707,13.0827,Monthly,46,Moderate
+004B5191,Chennai,01-01-2017,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,43,Good
+016035ED,Kolkata,01-04-2019,PM2.5 (µg/m³),88.3639,22.5726,Monthly,180,Very Poor
+005DEB85,Chennai,01-10-2008,PM10 (µg/m³),80.2707,13.0827,Monthly,112,Poor
+00F58C3F,Mumbai,01-02-2016,SO2 (ppb),72.8777,19.076,Monthly,12,Good
+021D2B40,Delhi,01-02-2015,PM10 (µg/m³),77.1025,28.7041,Monthly,86,Moderate
+02103B41,Mumbai,01-09-2005,"Ozone (O3, ppb)",72.8777,19.076,Monthly,25,Good
+0285B2F9,Chennai,01-04-2008,NO2 (ppb),80.2707,13.0827,Monthly,23,Good
+0259B255,Chennai,01-02-2004,SO2 (ppb),80.2707,13.0827,Monthly,20,Good
+00FA742E,Mumbai,01-09-2006,NO2 (ppb),72.8777,19.076,Monthly,31,Moderate
+02688853,Kolkata,01-12-2019,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,37,Good
+009CB3FF,Delhi,01-08-2014,PM10 (µg/m³),77.1025,28.7041,Monthly,156,Very Poor
+0069E42D,Chennai,01-06-2007,PM2.5 (µg/m³),80.2707,13.0827,Monthly,167,Very Poor
+0026C4D9,Mumbai,01-01-2021,"Ozone (O3, ppb)",72.8777,19.076,Monthly,78,Moderate
+01199413,Kolkata,01-01-2014,PM2.5 (µg/m³),88.3639,22.5726,Monthly,197,Very Poor
+01D1E33A,Mumbai,01-09-2000,SO2 (ppb),72.8777,19.076,Monthly,7,Good
+0222CD6D,Delhi,01-03-2001,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,75,Moderate
+01EC6C3E,Chennai,01-10-2015,PM10 (µg/m³),80.2707,13.0827,Monthly,52,Moderate
+01C298F3,Mumbai,01-03-2004,NO2 (ppb),72.8777,19.076,Monthly,50,Moderate
+020DB063,Bengaluru,01-09-2019,SO2 (ppb),77.5946,12.9716,Monthly,36,Moderate
+00903770,Kolkata,01-10-2002,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,72,Moderate
+00363C86,Mumbai,01-08-2022,PM10 (µg/m³),72.8777,19.076,Monthly,192,Very Poor
+00D72352,Bengaluru,01-12-2004,PM2.5 (µg/m³),77.5946,12.9716,Monthly,159,Very Poor
+0123A63E,Chennai,01-11-2006,NO2 (ppb),80.2707,13.0827,Monthly,29,Good
+000BDE7E,Kolkata,01-07-2009,PM10 (µg/m³),88.3639,22.5726,Monthly,160,Very Poor
+026C8E2F,Chennai,01-03-2005,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,35,Good
+011005D8,Delhi,01-04-2023,SO2 (ppb),77.1025,28.7041,Monthly,6,Good
+00AB415D,Kolkata,01-06-2002,PM10 (µg/m³),88.3639,22.5726,Monthly,94,Moderate
+001F60E0,Delhi,01-10-2005,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,68,Moderate
+0135C2EE,Delhi,01-05-2017,PM10 (µg/m³),77.1025,28.7041,Monthly,186,Very Poor
+01E96ED3,Mumbai,01-01-2018,"Ozone (O3, ppb)",72.8777,19.076,Monthly,79,Moderate
+01724C76,Kolkata,01-05-2016,NO2 (ppb),88.3639,22.5726,Monthly,30,Good
+00223854,Kolkata,01-01-2020,PM10 (µg/m³),88.3639,22.5726,Monthly,84,Moderate
+00D496DC,Chennai,01-06-2014,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,37,Good
+010596E9,Kolkata,01-04-2013,NO2 (ppb),88.3639,22.5726,Monthly,46,Moderate
+010B531D,Mumbai,01-07-2020,PM10 (µg/m³),72.8777,19.076,Monthly,142,Poor
+00FED539,Kolkata,01-10-2017,PM2.5 (µg/m³),88.3639,22.5726,Monthly,138,Poor
+01E8F7C9,Chennai,01-03-2015,PM2.5 (µg/m³),80.2707,13.0827,Monthly,138,Poor
+00A4DFE2,Delhi,01-08-2004,PM2.5 (µg/m³),77.1025,28.7041,Monthly,80,Moderate
+0205BE47,Bengaluru,01-07-2008,PM2.5 (µg/m³),77.5946,12.9716,Monthly,111,Poor
+01C611E0,Bengaluru,01-06-2004,PM10 (µg/m³),77.5946,12.9716,Monthly,73,Moderate
+011FF5FB,Chennai,01-12-2018,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,30,Good
+0214A6E0,Delhi,01-03-2006,PM2.5 (µg/m³),77.1025,28.7041,Monthly,173,Very Poor
+01D19FA0,Chennai,01-12-2000,NO2 (ppb),80.2707,13.0827,Monthly,35,Moderate
+017C4CF6,Kolkata,01-09-2009,PM10 (µg/m³),88.3639,22.5726,Monthly,69,Moderate
+0085EF3F,Mumbai,01-12-2004,PM10 (µg/m³),72.8777,19.076,Monthly,168,Very Poor
+002D3267,Delhi,01-10-2003,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,81,Moderate
+0272D439,Delhi,01-08-2000,NO2 (ppb),77.1025,28.7041,Monthly,18,Good
+00045534,Chennai,01-09-2003,SO2 (ppb),80.2707,13.0827,Monthly,7,Good
+0110D3C5,Delhi,01-06-2020,PM2.5 (µg/m³),77.1025,28.7041,Monthly,113,Poor
+01F7144C,Kolkata,01-12-2013,SO2 (ppb),88.3639,22.5726,Monthly,32,Moderate
+0228F347,Bengaluru,01-01-2010,SO2 (ppb),77.5946,12.9716,Monthly,47,Moderate
+00F92157,Mumbai,01-02-2017,PM2.5 (µg/m³),72.8777,19.076,Monthly,145,Poor
+00243587,Delhi,01-01-2001,NO2 (ppb),77.1025,28.7041,Monthly,47,Moderate
+0069CC74,Mumbai,01-12-2017,PM10 (µg/m³),72.8777,19.076,Monthly,163,Very Poor
+00D7DADF,Mumbai,01-11-2019,NO2 (ppb),72.8777,19.076,Monthly,19,Good
+00DC5602,Kolkata,01-01-2004,PM10 (µg/m³),88.3639,22.5726,Monthly,110,Poor
+0036219F,Chennai,01-07-2000,PM10 (µg/m³),80.2707,13.0827,Monthly,164,Very Poor
+00B0346A,Delhi,01-05-2000,NO2 (ppb),77.1025,28.7041,Monthly,15,Good
+01FB0291,Bengaluru,01-05-2021,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,69,Moderate
+017DE5B7,Chennai,01-11-2002,PM10 (µg/m³),80.2707,13.0827,Monthly,184,Very Poor
+01FD237F,Mumbai,01-11-2009,PM2.5 (µg/m³),72.8777,19.076,Monthly,66,Moderate
+007511C8,Kolkata,01-10-2012,PM2.5 (µg/m³),88.3639,22.5726,Monthly,194,Very Poor
+02355EA1,Mumbai,01-05-2003,SO2 (ppb),72.8777,19.076,Monthly,20,Good
+0041A042,Bengaluru,01-01-2005,SO2 (ppb),77.5946,12.9716,Monthly,26,Good
+00769150,Delhi,01-10-2010,PM10 (µg/m³),77.1025,28.7041,Monthly,188,Very Poor
+028A625B,Mumbai,01-02-2019,"Ozone (O3, ppb)",72.8777,19.076,Monthly,22,Good
+009409F5,Kolkata,01-06-2003,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,93,Moderate
+0029ECA4,Mumbai,01-08-2013,PM2.5 (µg/m³),72.8777,19.076,Monthly,158,Very Poor
+01020727,Delhi,01-04-2007,PM2.5 (µg/m³),77.1025,28.7041,Monthly,106,Poor
+00F754A3,Delhi,01-07-2004,SO2 (ppb),77.1025,28.7041,Monthly,9,Good
+026117E7,Bengaluru,01-03-2013,PM10 (µg/m³),77.5946,12.9716,Monthly,89,Moderate
+01022CDF,Bengaluru,01-12-2009,PM10 (µg/m³),77.5946,12.9716,Monthly,122,Poor
+0190C20B,Mumbai,01-05-2002,"Ozone (O3, ppb)",72.8777,19.076,Monthly,76,Moderate
+02117D81,Delhi,01-04-2010,PM10 (µg/m³),77.1025,28.7041,Monthly,181,Very Poor
+0069DC8B,Kolkata,01-11-2007,NO2 (ppb),88.3639,22.5726,Monthly,14,Good
+01AD461A,Mumbai,01-02-2002,SO2 (ppb),72.8777,19.076,Monthly,14,Good
+0198DDC7,Chennai,01-01-2005,PM2.5 (µg/m³),80.2707,13.0827,Monthly,129,Poor
+01291FC6,Chennai,01-06-2023,NO2 (ppb),80.2707,13.0827,Monthly,44,Moderate
+013703D0,Delhi,01-09-2011,NO2 (ppb),77.1025,28.7041,Monthly,20,Good
+007CB309,Delhi,01-11-2012,PM10 (µg/m³),77.1025,28.7041,Monthly,177,Very Poor
+0242DE38,Kolkata,01-05-2005,PM2.5 (µg/m³),88.3639,22.5726,Monthly,65,Moderate
+00DD9DB6,Chennai,01-07-2020,PM10 (µg/m³),80.2707,13.0827,Monthly,74,Moderate
+00B63EC6,Mumbai,01-09-2018,NO2 (ppb),72.8777,19.076,Monthly,11,Good
+01F89AE3,Bengaluru,01-07-2017,NO2 (ppb),77.5946,12.9716,Monthly,42,Moderate
+01081AE9,Mumbai,01-02-2004,PM10 (µg/m³),72.8777,19.076,Monthly,140,Poor
+021490AA,Mumbai,01-04-2021,NO2 (ppb),72.8777,19.076,Monthly,11,Good
+01623B56,Bengaluru,01-11-2007,PM10 (µg/m³),77.5946,12.9716,Monthly,123,Poor
+01F80994,Chennai,01-09-2015,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,63,Moderate
+01868F16,Delhi,01-01-2008,PM10 (µg/m³),77.1025,28.7041,Monthly,75,Moderate
+0195BFA0,Chennai,01-08-2020,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,38,Good
+01D72106,Bengaluru,01-02-2004,PM10 (µg/m³),77.5946,12.9716,Monthly,125,Poor
+00CAFAE1,Chennai,01-08-2005,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,21,Good
+01156FE3,Chennai,01-09-2017,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,46,Good
+00E985C7,Kolkata,01-04-2008,NO2 (ppb),88.3639,22.5726,Monthly,13,Good
+01FDE8F7,Kolkata,01-10-2019,PM2.5 (µg/m³),88.3639,22.5726,Monthly,105,Poor
+014DF864,Chennai,01-06-2020,NO2 (ppb),80.2707,13.0827,Monthly,7,Good
+01FE1867,Delhi,01-07-2023,NO2 (ppb),77.1025,28.7041,Monthly,27,Good
+0192748A,Chennai,01-04-2001,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,42,Good
+01DE2D69,Delhi,01-02-2023,NO2 (ppb),77.1025,28.7041,Monthly,44,Moderate
+0069FFE6,Chennai,01-08-2007,PM2.5 (µg/m³),80.2707,13.0827,Monthly,138,Poor
+01B7C781,Delhi,01-05-2020,NO2 (ppb),77.1025,28.7041,Monthly,15,Good
+015DCBC6,Mumbai,01-09-2009,"Ozone (O3, ppb)",72.8777,19.076,Monthly,65,Moderate
+01A2A1B7,Kolkata,01-06-2006,PM2.5 (µg/m³),88.3639,22.5726,Monthly,69,Moderate
+00D98D85,Bengaluru,01-03-2015,SO2 (ppb),77.5946,12.9716,Monthly,39,Moderate
+01FC887E,Chennai,01-06-2008,SO2 (ppb),80.2707,13.0827,Monthly,9,Good
+00F24DA4,Mumbai,01-10-2007,PM10 (µg/m³),72.8777,19.076,Monthly,131,Poor
+004FD22D,Kolkata,01-01-2006,NO2 (ppb),88.3639,22.5726,Monthly,34,Moderate
+02473072,Mumbai,01-03-2007,NO2 (ppb),72.8777,19.076,Monthly,31,Moderate
+0262262C,Delhi,01-08-2011,NO2 (ppb),77.1025,28.7041,Monthly,8,Good
+0159C3A1,Bengaluru,01-09-2022,PM2.5 (µg/m³),77.5946,12.9716,Monthly,139,Poor
+01A3DC0B,Bengaluru,01-08-2007,PM10 (µg/m³),77.5946,12.9716,Monthly,157,Very Poor
+00E6D4C9,Chennai,01-11-2005,SO2 (ppb),80.2707,13.0827,Monthly,17,Good
+01A74EE0,Mumbai,01-08-2017,PM2.5 (µg/m³),72.8777,19.076,Monthly,196,Very Poor
+024EB787,Bengaluru,01-02-2000,NO2 (ppb),77.5946,12.9716,Monthly,5,Good
+018E6CCB,Kolkata,01-10-2014,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,63,Moderate
+02113EA9,Kolkata,01-03-2006,SO2 (ppb),88.3639,22.5726,Monthly,47,Moderate
+01EA57F0,Mumbai,01-07-2013,"Ozone (O3, ppb)",72.8777,19.076,Monthly,39,Good
+0164C5F8,Delhi,01-02-2014,PM10 (µg/m³),77.1025,28.7041,Monthly,159,Very Poor
+00887CD6,Mumbai,01-10-2009,NO2 (ppb),72.8777,19.076,Monthly,50,Moderate
+01FD6F91,Mumbai,01-01-2010,SO2 (ppb),72.8777,19.076,Monthly,15,Good
+009F6579,Chennai,01-04-2017,NO2 (ppb),80.2707,13.0827,Monthly,17,Good
+007B0AEE,Bengaluru,01-12-2002,NO2 (ppb),77.5946,12.9716,Monthly,27,Good
+01A48068,Bengaluru,01-04-2000,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,100,Moderate
+00947EF7,Kolkata,01-06-2015,SO2 (ppb),88.3639,22.5726,Monthly,45,Moderate
+021D07A8,Chennai,01-04-2004,PM10 (µg/m³),80.2707,13.0827,Monthly,58,Moderate
+01FEDA58,Chennai,01-06-2018,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,74,Moderate
+01261F14,Kolkata,01-04-2004,SO2 (ppb),88.3639,22.5726,Monthly,20,Good
+006FBA15,Kolkata,01-05-2007,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,74,Moderate
+0022D378,Chennai,01-10-2022,PM2.5 (µg/m³),80.2707,13.0827,Monthly,108,Poor
+016D8C69,Bengaluru,01-10-2003,SO2 (ppb),77.5946,12.9716,Monthly,49,Moderate
+01700874,Mumbai,01-01-2023,NO2 (ppb),72.8777,19.076,Monthly,8,Good
+0034B997,Chennai,01-06-2006,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,20,Good
+00F8EA33,Bengaluru,01-01-2009,NO2 (ppb),77.5946,12.9716,Monthly,7,Good
+006B3AFA,Mumbai,01-07-2019,NO2 (ppb),72.8777,19.076,Monthly,14,Good
+016DB0DB,Delhi,01-09-2004,SO2 (ppb),77.1025,28.7041,Monthly,18,Good
+012CE4BD,Delhi,01-06-2003,SO2 (ppb),77.1025,28.7041,Monthly,20,Good
+00FC6F1D,Kolkata,01-06-2011,PM2.5 (µg/m³),88.3639,22.5726,Monthly,54,Moderate
+01226AE6,Kolkata,01-06-2022,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,84,Moderate
+013942B9,Bengaluru,01-12-2013,NO2 (ppb),77.5946,12.9716,Monthly,32,Moderate
+024D5C8D,Delhi,01-06-2016,NO2 (ppb),77.1025,28.7041,Monthly,46,Moderate
+00ED3719,Delhi,01-02-2003,PM2.5 (µg/m³),77.1025,28.7041,Monthly,112,Poor
+00DB80B4,Delhi,01-07-2012,PM2.5 (µg/m³),77.1025,28.7041,Monthly,56,Moderate
+01D91BB1,Bengaluru,01-03-2016,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,63,Moderate
+0005C652,Delhi,01-11-2017,PM10 (µg/m³),77.1025,28.7041,Monthly,116,Poor
+0118E675,Kolkata,01-03-2018,PM2.5 (µg/m³),88.3639,22.5726,Monthly,98,Moderate
+01DA057C,Chennai,01-12-2006,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,46,Good
+01A8489B,Bengaluru,01-03-2020,PM10 (µg/m³),77.5946,12.9716,Monthly,63,Moderate
+012D9833,Mumbai,01-04-2013,"Ozone (O3, ppb)",72.8777,19.076,Monthly,58,Good
+023824D3,Chennai,01-04-2010,PM10 (µg/m³),80.2707,13.0827,Monthly,54,Moderate
+016CD1CB,Chennai,01-03-2022,NO2 (ppb),80.2707,13.0827,Monthly,15,Good
+0208F1EC,Chennai,01-07-2010,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,26,Good
+0129018C,Chennai,01-02-2005,SO2 (ppb),80.2707,13.0827,Monthly,46,Moderate
+012E6F9A,Chennai,01-11-2011,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,81,Moderate
+027C8051,Bengaluru,01-06-2005,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,94,Moderate
+01043C3F,Mumbai,01-09-2010,"Ozone (O3, ppb)",72.8777,19.076,Monthly,40,Good
+0029FF61,Bengaluru,01-11-2017,NO2 (ppb),77.5946,12.9716,Monthly,16,Good
+01DE2E4D,Mumbai,01-10-2012,NO2 (ppb),72.8777,19.076,Monthly,50,Moderate
+01B8A5C6,Bengaluru,01-09-2021,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,70,Moderate
+00807EDB,Mumbai,01-06-2000,PM10 (µg/m³),72.8777,19.076,Monthly,61,Moderate
+011CC6B7,Bengaluru,01-10-2021,NO2 (ppb),77.5946,12.9716,Monthly,49,Moderate
+01A8DB5F,Bengaluru,01-01-2013,SO2 (ppb),77.5946,12.9716,Monthly,15,Good
+0014083D,Kolkata,01-12-2008,PM10 (µg/m³),88.3639,22.5726,Monthly,190,Very Poor
+00E927E3,Mumbai,01-09-2007,"Ozone (O3, ppb)",72.8777,19.076,Monthly,68,Moderate
+01E5DE7A,Delhi,01-01-2005,PM10 (µg/m³),77.1025,28.7041,Monthly,175,Very Poor
+025D4E21,Delhi,01-11-2002,NO2 (ppb),77.1025,28.7041,Monthly,44,Moderate
+016E274B,Chennai,01-11-2017,PM2.5 (µg/m³),80.2707,13.0827,Monthly,155,Very Poor
+0273F35F,Chennai,01-05-2012,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,68,Moderate
+00EE3672,Kolkata,01-09-2008,SO2 (ppb),88.3639,22.5726,Monthly,28,Good
+01522945,Bengaluru,01-02-2021,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,75,Moderate
+017F7AD2,Mumbai,01-03-2002,PM10 (µg/m³),72.8777,19.076,Monthly,125,Poor
+028DB882,Mumbai,01-02-2018,SO2 (ppb),72.8777,19.076,Monthly,31,Moderate
+00C6DD10,Kolkata,01-12-2007,SO2 (ppb),88.3639,22.5726,Monthly,22,Good
+000D59FA,Chennai,01-03-2009,PM10 (µg/m³),80.2707,13.0827,Monthly,196,Very Poor
+01E58827,Chennai,01-09-2007,PM2.5 (µg/m³),80.2707,13.0827,Monthly,87,Moderate
+001228F5,Chennai,01-03-2001,SO2 (ppb),80.2707,13.0827,Monthly,42,Moderate
+023A7462,Chennai,01-06-2000,NO2 (ppb),80.2707,13.0827,Monthly,9,Good
+010744E3,Bengaluru,01-11-2019,PM2.5 (µg/m³),77.5946,12.9716,Monthly,80,Moderate
+00CA0EB1,Chennai,01-08-2013,NO2 (ppb),80.2707,13.0827,Monthly,29,Good
+01B29702,Delhi,01-04-2002,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,86,Moderate
+02604F26,Bengaluru,01-08-2006,SO2 (ppb),77.5946,12.9716,Monthly,9,Good
+016DA089,Delhi,01-06-2013,PM10 (µg/m³),77.1025,28.7041,Monthly,160,Very Poor
+01C0B99E,Chennai,01-02-2018,PM2.5 (µg/m³),80.2707,13.0827,Monthly,122,Poor
+00563CB7,Bengaluru,01-02-2005,SO2 (ppb),77.5946,12.9716,Monthly,29,Good
+02250BB3,Delhi,01-07-2002,PM2.5 (µg/m³),77.1025,28.7041,Monthly,169,Very Poor
+022BC51B,Delhi,01-09-2017,SO2 (ppb),77.1025,28.7041,Monthly,44,Moderate
+00C54DB4,Mumbai,01-11-2013,"Ozone (O3, ppb)",72.8777,19.076,Monthly,85,Moderate
+0265E653,Bengaluru,01-09-2023,PM2.5 (µg/m³),77.5946,12.9716,Monthly,83,Moderate
+026D6B78,Delhi,01-02-2012,NO2 (ppb),77.1025,28.7041,Monthly,18,Good
+01EE2941,Mumbai,01-10-2010,NO2 (ppb),72.8777,19.076,Monthly,6,Good
+0154FC45,Chennai,01-12-2017,PM10 (µg/m³),80.2707,13.0827,Monthly,199,Very Poor
+01F0D6FF,Mumbai,01-09-2021,PM2.5 (µg/m³),72.8777,19.076,Monthly,69,Moderate
+011C44FE,Chennai,01-09-2018,PM2.5 (µg/m³),80.2707,13.0827,Monthly,111,Poor
+00ABC321,Delhi,01-12-2007,PM10 (µg/m³),77.1025,28.7041,Monthly,117,Poor
+02607A24,Delhi,01-03-2005,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,88,Moderate
+015E7B60,Chennai,01-07-2004,SO2 (ppb),80.2707,13.0827,Monthly,19,Good
+00C5654F,Kolkata,01-05-2010,NO2 (ppb),88.3639,22.5726,Monthly,32,Moderate
+00A058EF,Bengaluru,01-12-2006,PM2.5 (µg/m³),77.5946,12.9716,Monthly,189,Very Poor
+0289A6A7,Delhi,01-05-2018,PM10 (µg/m³),77.1025,28.7041,Monthly,190,Very Poor
+0071062E,Mumbai,01-08-2014,SO2 (ppb),72.8777,19.076,Monthly,24,Good
+0130D627,Chennai,01-06-2012,NO2 (ppb),80.2707,13.0827,Monthly,19,Good
+00C0323D,Delhi,01-10-2021,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,30,Good
+00892A2A,Mumbai,01-10-2023,PM2.5 (µg/m³),72.8777,19.076,Monthly,123,Poor
+01BEC9A7,Delhi,01-10-2007,NO2 (ppb),77.1025,28.7041,Monthly,10,Good
+018F1146,Delhi,01-12-2016,PM10 (µg/m³),77.1025,28.7041,Monthly,54,Moderate
+021A71ED,Mumbai,01-08-2020,NO2 (ppb),72.8777,19.076,Monthly,47,Moderate
+019A73F8,Chennai,01-06-2016,PM10 (µg/m³),80.2707,13.0827,Monthly,174,Very Poor
+00348791,Chennai,01-02-2020,PM2.5 (µg/m³),80.2707,13.0827,Monthly,114,Poor
+005FA59E,Bengaluru,01-11-2013,SO2 (ppb),77.5946,12.9716,Monthly,48,Moderate
+0235DABB,Kolkata,01-04-2018,PM10 (µg/m³),88.3639,22.5726,Monthly,115,Poor
+004D5E30,Delhi,01-02-2004,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,31,Good
+02306DD3,Bengaluru,01-12-2016,NO2 (ppb),77.5946,12.9716,Monthly,44,Moderate
+028B8DA0,Bengaluru,01-05-2015,SO2 (ppb),77.5946,12.9716,Monthly,38,Moderate
+008F47AE,Chennai,01-02-2023,PM2.5 (µg/m³),80.2707,13.0827,Monthly,114,Poor
+00E3C2D0,Mumbai,01-03-2021,PM10 (µg/m³),72.8777,19.076,Monthly,141,Poor
+01CFDF2B,Delhi,01-01-2010,PM10 (µg/m³),77.1025,28.7041,Monthly,97,Moderate
+02780EC7,Delhi,01-01-2016,PM10 (µg/m³),77.1025,28.7041,Monthly,172,Very Poor
+00B7F57C,Delhi,01-02-2020,PM2.5 (µg/m³),77.1025,28.7041,Monthly,174,Very Poor
+01E1C6BD,Bengaluru,01-05-2012,PM10 (µg/m³),77.5946,12.9716,Monthly,130,Poor
+008225B5,Mumbai,01-08-2021,NO2 (ppb),72.8777,19.076,Monthly,20,Good
+014D2859,Delhi,01-04-2005,NO2 (ppb),77.1025,28.7041,Monthly,41,Moderate
+008C84F9,Chennai,01-07-2017,PM2.5 (µg/m³),80.2707,13.0827,Monthly,68,Moderate
+01C610CB,Mumbai,01-02-2021,PM2.5 (µg/m³),72.8777,19.076,Monthly,173,Very Poor
+0015DF08,Mumbai,01-01-2001,PM2.5 (µg/m³),72.8777,19.076,Monthly,172,Very Poor
+0142E428,Delhi,01-11-2014,PM2.5 (µg/m³),77.1025,28.7041,Monthly,157,Very Poor
+00641737,Kolkata,01-07-2021,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,73,Moderate
+010D1342,Delhi,01-09-2009,PM10 (µg/m³),77.1025,28.7041,Monthly,143,Poor
+01CB44FC,Delhi,01-04-2011,PM10 (µg/m³),77.1025,28.7041,Monthly,172,Very Poor
+0151BFFB,Bengaluru,01-06-2020,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,68,Moderate
+0141D3B8,Delhi,01-02-2022,SO2 (ppb),77.1025,28.7041,Monthly,19,Good
+00CEB476,Bengaluru,01-11-2004,PM10 (µg/m³),77.5946,12.9716,Monthly,115,Poor
+028E99B0,Kolkata,01-02-2005,PM10 (µg/m³),88.3639,22.5726,Monthly,78,Moderate
+01451C67,Mumbai,01-03-2013,PM2.5 (µg/m³),72.8777,19.076,Monthly,82,Moderate
+00A3E7AB,Bengaluru,01-07-2004,SO2 (ppb),77.5946,12.9716,Monthly,48,Moderate
+00F22779,Bengaluru,01-10-2011,PM10 (µg/m³),77.5946,12.9716,Monthly,93,Moderate
+01E94B67,Delhi,01-05-2022,PM2.5 (µg/m³),77.1025,28.7041,Monthly,193,Very Poor
+01E4D9A8,Bengaluru,01-04-2009,PM2.5 (µg/m³),77.5946,12.9716,Monthly,69,Moderate
+0139524B,Kolkata,01-06-2010,PM2.5 (µg/m³),88.3639,22.5726,Monthly,131,Poor
+00038D55,Chennai,01-06-2015,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,46,Good
+001FBE34,Kolkata,01-02-2023,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,67,Moderate
+026013C5,Delhi,01-11-2000,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,85,Moderate
+0102059F,Mumbai,01-12-2000,NO2 (ppb),72.8777,19.076,Monthly,27,Good
+0229B425,Kolkata,01-07-2020,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,27,Good
+027B89B8,Delhi,01-04-2013,NO2 (ppb),77.1025,28.7041,Monthly,23,Good
+016BABC5,Chennai,01-02-2014,PM2.5 (µg/m³),80.2707,13.0827,Monthly,89,Moderate
+00A0862E,Delhi,01-08-2005,SO2 (ppb),77.1025,28.7041,Monthly,7,Good
+01D4B9BC,Delhi,01-07-2017,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,64,Moderate
+021F75FD,Mumbai,01-05-2005,PM10 (µg/m³),72.8777,19.076,Monthly,193,Very Poor
+00F2BC7C,Delhi,01-01-2023,NO2 (ppb),77.1025,28.7041,Monthly,45,Moderate
+006F0B25,Bengaluru,01-11-2016,PM2.5 (µg/m³),77.5946,12.9716,Monthly,169,Very Poor
+01DD27F7,Delhi,01-02-2019,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,62,Moderate
+00C916C3,Bengaluru,01-06-2007,SO2 (ppb),77.5946,12.9716,Monthly,24,Good
+00852F0D,Delhi,01-05-2008,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,67,Moderate
+027CE739,Mumbai,01-08-2016,PM2.5 (µg/m³),72.8777,19.076,Monthly,99,Moderate
+0116F463,Chennai,01-07-2007,NO2 (ppb),80.2707,13.0827,Monthly,48,Moderate
+021FC300,Kolkata,01-09-2006,SO2 (ppb),88.3639,22.5726,Monthly,26,Good
+013D9CBA,Bengaluru,01-01-2000,NO2 (ppb),77.5946,12.9716,Monthly,16,Good
+024D939F,Mumbai,01-04-2002,PM10 (µg/m³),72.8777,19.076,Monthly,190,Very Poor
+00B801C0,Mumbai,01-10-2008,SO2 (ppb),72.8777,19.076,Monthly,48,Moderate
+00EFA7CD,Kolkata,01-05-2000,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,47,Good
+027F590B,Chennai,01-06-2013,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,34,Good
+00A9C0EC,Mumbai,01-01-2009,"Ozone (O3, ppb)",72.8777,19.076,Monthly,53,Good
+01600EE4,Delhi,01-09-2020,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,74,Moderate
+00AAD808,Kolkata,01-03-2004,NO2 (ppb),88.3639,22.5726,Monthly,37,Moderate
+01F9845F,Delhi,01-04-2022,PM10 (µg/m³),77.1025,28.7041,Monthly,128,Poor
+01B2DE42,Bengaluru,01-05-2019,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,72,Moderate
+01FAA99C,Kolkata,01-11-2009,SO2 (ppb),88.3639,22.5726,Monthly,22,Good
+006F1D3E,Delhi,01-06-2008,SO2 (ppb),77.1025,28.7041,Monthly,19,Good
+01BD18F6,Delhi,01-11-2015,NO2 (ppb),77.1025,28.7041,Monthly,13,Good
+0105ED93,Bengaluru,01-01-2011,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,61,Moderate
+009AE227,Chennai,01-08-2017,NO2 (ppb),80.2707,13.0827,Monthly,25,Good
+014E4A66,Bengaluru,01-09-2005,PM2.5 (µg/m³),77.5946,12.9716,Monthly,169,Very Poor
+018B0A09,Delhi,01-01-2004,PM10 (µg/m³),77.1025,28.7041,Monthly,161,Very Poor
+02652EF8,Bengaluru,01-02-2015,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,37,Good
+005CC050,Bengaluru,01-12-2011,SO2 (ppb),77.5946,12.9716,Monthly,14,Good
+007F8C6A,Kolkata,01-04-2014,PM2.5 (µg/m³),88.3639,22.5726,Monthly,165,Very Poor
+00FE9D15,Chennai,01-01-2003,PM2.5 (µg/m³),80.2707,13.0827,Monthly,150,Poor
+00B003EC,Mumbai,01-12-2015,PM2.5 (µg/m³),72.8777,19.076,Monthly,95,Moderate
+00EBB8FF,Delhi,01-02-2016,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,37,Good
+00026758,Kolkata,01-02-2002,NO2 (ppb),88.3639,22.5726,Monthly,28,Good
+012FDBC1,Chennai,01-11-2008,PM10 (µg/m³),80.2707,13.0827,Monthly,142,Poor
+025B7435,Mumbai,01-03-2008,PM2.5 (µg/m³),72.8777,19.076,Monthly,108,Poor
+011C46D9,Delhi,01-08-2006,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,72,Moderate
+0146BC4E,Chennai,01-03-2013,NO2 (ppb),80.2707,13.0827,Monthly,38,Moderate
+02733774,Chennai,01-01-2011,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,100,Moderate
+000928B1,Mumbai,01-06-2016,NO2 (ppb),72.8777,19.076,Monthly,44,Moderate
+009D7D3F,Delhi,01-04-2012,PM2.5 (µg/m³),77.1025,28.7041,Monthly,62,Moderate
+00A47B6A,Delhi,01-10-2006,SO2 (ppb),77.1025,28.7041,Monthly,23,Good
+0116B26C,Chennai,01-01-2021,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,39,Good
+01CF70AD,Bengaluru,01-08-2013,NO2 (ppb),77.5946,12.9716,Monthly,41,Moderate
+010EA7FE,Mumbai,01-12-2023,"Ozone (O3, ppb)",72.8777,19.076,Monthly,48,Good
+0287C4FC,Delhi,01-08-2016,SO2 (ppb),77.1025,28.7041,Monthly,12,Good
+0204F704,Chennai,01-12-2011,NO2 (ppb),80.2707,13.0827,Monthly,31,Moderate
+0040664F,Chennai,01-05-2017,PM10 (µg/m³),80.2707,13.0827,Monthly,200,Very Poor
+01668393,Mumbai,01-07-2011,SO2 (ppb),72.8777,19.076,Monthly,8,Good
+018BF636,Kolkata,01-02-2015,PM2.5 (µg/m³),88.3639,22.5726,Monthly,68,Moderate
+02393342,Chennai,01-05-2010,NO2 (ppb),80.2707,13.0827,Monthly,23,Good
+00C39D12,Mumbai,01-02-2007,PM10 (µg/m³),72.8777,19.076,Monthly,195,Very Poor
+00387B3A,Bengaluru,01-11-2008,PM2.5 (µg/m³),77.5946,12.9716,Monthly,107,Poor
+01895739,Chennai,01-07-2005,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,50,Good
+024D8E93,Bengaluru,01-08-2000,PM2.5 (µg/m³),77.5946,12.9716,Monthly,129,Poor
+004FE3ED,Mumbai,01-07-2021,PM2.5 (µg/m³),72.8777,19.076,Monthly,156,Very Poor
+016CEFFA,Chennai,01-01-2008,PM10 (µg/m³),80.2707,13.0827,Monthly,197,Very Poor
+014EA5CB,Mumbai,01-01-2015,NO2 (ppb),72.8777,19.076,Monthly,46,Moderate
+00E719F8,Mumbai,01-06-2022,NO2 (ppb),72.8777,19.076,Monthly,17,Good
+01DD0DCE,Delhi,01-01-2017,SO2 (ppb),77.1025,28.7041,Monthly,30,Good
+00AD8E65,Kolkata,01-10-2020,SO2 (ppb),88.3639,22.5726,Monthly,13,Good
+014ACFA4,Chennai,01-10-2005,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,82,Moderate
+01EF964B,Kolkata,01-03-2008,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,73,Moderate
+01094AA0,Mumbai,01-10-2006,NO2 (ppb),72.8777,19.076,Monthly,13,Good
+0187AD60,Delhi,01-08-2010,NO2 (ppb),77.1025,28.7041,Monthly,43,Moderate
+0227C766,Kolkata,01-05-2023,NO2 (ppb),88.3639,22.5726,Monthly,18,Good
+005B2068,Bengaluru,01-10-2001,NO2 (ppb),77.5946,12.9716,Monthly,8,Good
+01A9173A,Kolkata,01-09-2001,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,33,Good
+024B3CBB,Mumbai,01-03-2009,PM10 (µg/m³),72.8777,19.076,Monthly,140,Poor
+0132AAE8,Chennai,01-05-2018,PM2.5 (µg/m³),80.2707,13.0827,Monthly,163,Very Poor
+028B271F,Mumbai,01-05-2018,SO2 (ppb),72.8777,19.076,Monthly,11,Good
+0095B29F,Chennai,01-10-2020,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,20,Good
+0097A58C,Mumbai,01-07-2005,NO2 (ppb),72.8777,19.076,Monthly,5,Good
+01F5F8D4,Delhi,01-03-2015,PM2.5 (µg/m³),77.1025,28.7041,Monthly,95,Moderate
+00F7B862,Bengaluru,01-10-2019,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,77,Moderate
+012FDD99,Chennai,01-10-2013,PM10 (µg/m³),80.2707,13.0827,Monthly,196,Very Poor
+00A89740,Chennai,01-05-2003,PM10 (µg/m³),80.2707,13.0827,Monthly,65,Moderate
+0271D059,Chennai,01-03-2000,PM10 (µg/m³),80.2707,13.0827,Monthly,138,Poor
+01706756,Kolkata,01-03-2011,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,90,Moderate
+01443E6C,Delhi,01-11-2016,PM2.5 (µg/m³),77.1025,28.7041,Monthly,198,Very Poor
+0000B752,Bengaluru,01-05-2008,NO2 (ppb),77.5946,12.9716,Monthly,46,Moderate
+00E1BE4F,Kolkata,01-11-2019,PM10 (µg/m³),88.3639,22.5726,Monthly,142,Poor
+0027E99F,Mumbai,01-03-2012,NO2 (ppb),72.8777,19.076,Monthly,49,Moderate
+025DE510,Kolkata,01-03-2001,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,24,Good
+024A7C85,Mumbai,01-05-2006,"Ozone (O3, ppb)",72.8777,19.076,Monthly,68,Moderate
+00E83503,Bengaluru,01-06-2012,PM10 (µg/m³),77.5946,12.9716,Monthly,166,Very Poor
+01AC80FC,Chennai,01-10-2007,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,89,Moderate
+008234C5,Kolkata,01-08-2022,NO2 (ppb),88.3639,22.5726,Monthly,40,Moderate
+009D21DB,Kolkata,01-08-2010,NO2 (ppb),88.3639,22.5726,Monthly,49,Moderate
+019A7431,Delhi,01-03-2020,SO2 (ppb),77.1025,28.7041,Monthly,8,Good
+02096CEA,Kolkata,01-01-2021,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,46,Good
+015F1D1E,Bengaluru,01-12-2005,NO2 (ppb),77.5946,12.9716,Monthly,25,Good
+0242AE17,Kolkata,01-05-2021,NO2 (ppb),88.3639,22.5726,Monthly,15,Good
+0220EE96,Bengaluru,01-10-2004,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,71,Moderate
+01218440,Mumbai,01-09-2011,PM2.5 (µg/m³),72.8777,19.076,Monthly,142,Poor
+02175B15,Delhi,01-02-2000,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,82,Moderate
+00DD583D,Mumbai,01-08-2005,"Ozone (O3, ppb)",72.8777,19.076,Monthly,77,Moderate
+003A059A,Delhi,01-08-2001,PM10 (µg/m³),77.1025,28.7041,Monthly,135,Poor
+02702111,Delhi,01-12-2013,SO2 (ppb),77.1025,28.7041,Monthly,31,Moderate
+00DFE831,Mumbai,01-04-2018,"Ozone (O3, ppb)",72.8777,19.076,Monthly,46,Good
+0237AF9C,Bengaluru,01-10-2009,SO2 (ppb),77.5946,12.9716,Monthly,30,Good
+01D3F086,Delhi,01-07-2006,SO2 (ppb),77.1025,28.7041,Monthly,19,Good
+01813168,Bengaluru,01-11-2020,PM10 (µg/m³),77.5946,12.9716,Monthly,190,Very Poor
+017CFC24,Kolkata,01-10-2007,SO2 (ppb),88.3639,22.5726,Monthly,32,Moderate
+01A45A5E,Delhi,01-05-2013,PM2.5 (µg/m³),77.1025,28.7041,Monthly,120,Poor
+01BCF22D,Bengaluru,01-07-2019,PM10 (µg/m³),77.5946,12.9716,Monthly,195,Very Poor
+027E6C64,Mumbai,01-08-2003,NO2 (ppb),72.8777,19.076,Monthly,12,Good
+011FF0B0,Bengaluru,01-04-2019,PM10 (µg/m³),77.5946,12.9716,Monthly,83,Moderate
+00F20D9C,Delhi,01-10-2017,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,41,Good
+00747A86,Chennai,01-03-2014,SO2 (ppb),80.2707,13.0827,Monthly,43,Moderate
+0176C44C,Mumbai,01-12-2006,NO2 (ppb),72.8777,19.076,Monthly,32,Moderate
+02683C7E,Bengaluru,01-01-2023,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,49,Good
+01921CF0,Delhi,01-05-2019,PM10 (µg/m³),77.1025,28.7041,Monthly,127,Poor
+00BF85E8,Mumbai,01-10-2000,SO2 (ppb),72.8777,19.076,Monthly,43,Moderate
+01A23A93,Delhi,01-12-2018,PM2.5 (µg/m³),77.1025,28.7041,Monthly,176,Very Poor
+00BE38A3,Chennai,01-09-2009,SO2 (ppb),80.2707,13.0827,Monthly,5,Good
+00ECB042,Bengaluru,01-11-2011,PM2.5 (µg/m³),77.5946,12.9716,Monthly,191,Very Poor
+0221B6D2,Chennai,01-05-2006,PM2.5 (µg/m³),80.2707,13.0827,Monthly,113,Poor
+01253E85,Kolkata,01-09-2002,NO2 (ppb),88.3639,22.5726,Monthly,37,Moderate
+015F40DA,Bengaluru,01-08-2004,PM2.5 (µg/m³),77.5946,12.9716,Monthly,104,Poor
+00AE97A1,Mumbai,01-02-2006,PM10 (µg/m³),72.8777,19.076,Monthly,117,Poor
+0053B3AF,Bengaluru,01-01-2001,NO2 (ppb),77.5946,12.9716,Monthly,47,Moderate
+0155EEF6,Bengaluru,01-02-2006,PM10 (µg/m³),77.5946,12.9716,Monthly,98,Moderate
+01431539,Kolkata,01-06-2016,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,75,Moderate
+002BC379,Bengaluru,01-02-2023,PM2.5 (µg/m³),77.5946,12.9716,Monthly,136,Poor
+00735584,Delhi,01-01-2007,PM2.5 (µg/m³),77.1025,28.7041,Monthly,128,Poor
+008F4D2B,Delhi,01-09-2014,PM10 (µg/m³),77.1025,28.7041,Monthly,86,Moderate
+0107BD4C,Mumbai,01-06-2019,PM2.5 (µg/m³),72.8777,19.076,Monthly,123,Poor
+000CA447,Bengaluru,01-04-2003,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,91,Moderate
+02676FDA,Delhi,01-09-2016,PM2.5 (µg/m³),77.1025,28.7041,Monthly,138,Poor
+00C58103,Mumbai,01-01-2006,PM2.5 (µg/m³),72.8777,19.076,Monthly,176,Very Poor
+005AFB19,Delhi,01-09-2019,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,25,Good
+0053F557,Delhi,01-12-2015,NO2 (ppb),77.1025,28.7041,Monthly,21,Good
+00476824,Chennai,01-07-2014,PM10 (µg/m³),80.2707,13.0827,Monthly,181,Very Poor
+003A3997,Mumbai,01-06-2010,NO2 (ppb),72.8777,19.076,Monthly,46,Moderate
+0234B541,Delhi,01-11-2023,SO2 (ppb),77.1025,28.7041,Monthly,21,Good
+01EB4CEC,Kolkata,01-04-2011,NO2 (ppb),88.3639,22.5726,Monthly,6,Good
+01888161,Mumbai,01-03-2003,NO2 (ppb),72.8777,19.076,Monthly,10,Good
+01492CBA,Chennai,01-07-2006,PM10 (µg/m³),80.2707,13.0827,Monthly,159,Very Poor
+01D6A5A1,Kolkata,01-04-2005,PM10 (µg/m³),88.3639,22.5726,Monthly,194,Very Poor
+0154B84A,Delhi,01-08-2008,PM10 (µg/m³),77.1025,28.7041,Monthly,192,Very Poor
+015BA7BA,Bengaluru,01-06-2009,PM10 (µg/m³),77.5946,12.9716,Monthly,94,Moderate
+015E6896,Delhi,01-06-2004,PM10 (µg/m³),77.1025,28.7041,Monthly,152,Very Poor
+0269F8B9,Kolkata,01-02-2009,SO2 (ppb),88.3639,22.5726,Monthly,33,Moderate
+0275FA34,Mumbai,01-06-2003,PM10 (µg/m³),72.8777,19.076,Monthly,69,Moderate
+01C26322,Kolkata,01-11-2008,NO2 (ppb),88.3639,22.5726,Monthly,17,Good
+018AE38F,Mumbai,01-05-2020,PM2.5 (µg/m³),72.8777,19.076,Monthly,108,Poor
+0178CB97,Chennai,01-09-2019,SO2 (ppb),80.2707,13.0827,Monthly,21,Good
+02063075,Kolkata,01-07-2006,NO2 (ppb),88.3639,22.5726,Monthly,18,Good
+018B8D8C,Kolkata,01-02-2010,PM2.5 (µg/m³),88.3639,22.5726,Monthly,114,Poor
+02587B84,Delhi,01-09-2023,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,90,Moderate
+018ECB97,Bengaluru,01-12-2015,PM10 (µg/m³),77.5946,12.9716,Monthly,88,Moderate
+0084629B,Bengaluru,01-06-2017,SO2 (ppb),77.5946,12.9716,Monthly,36,Moderate
+020AE365,Mumbai,01-11-2006,SO2 (ppb),72.8777,19.076,Monthly,8,Good
+02803354,Delhi,01-12-2012,PM2.5 (µg/m³),77.1025,28.7041,Monthly,105,Poor
+020678A0,Chennai,01-01-2014,PM2.5 (µg/m³),80.2707,13.0827,Monthly,167,Very Poor
+01BEADC8,Bengaluru,01-03-2004,PM10 (µg/m³),77.5946,12.9716,Monthly,177,Very Poor
+012407D7,Bengaluru,01-10-2015,SO2 (ppb),77.5946,12.9716,Monthly,25,Good
+01A24452,Kolkata,01-12-2009,SO2 (ppb),88.3639,22.5726,Monthly,17,Good
+00AD1A87,Mumbai,01-01-2017,SO2 (ppb),72.8777,19.076,Monthly,13,Good
+017A83D5,Chennai,01-05-2019,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,36,Good
+01516C4A,Kolkata,01-09-2020,NO2 (ppb),88.3639,22.5726,Monthly,42,Moderate
+027CC534,Kolkata,01-11-2013,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,82,Moderate
+0169A59F,Delhi,01-02-2010,PM2.5 (µg/m³),77.1025,28.7041,Monthly,116,Poor
+00763701,Delhi,01-04-2003,NO2 (ppb),77.1025,28.7041,Monthly,20,Good
+02832436,Delhi,01-07-2014,PM10 (µg/m³),77.1025,28.7041,Monthly,190,Very Poor
+0258993D,Mumbai,01-10-2019,PM2.5 (µg/m³),72.8777,19.076,Monthly,62,Moderate
+003CA077,Mumbai,01-12-2014,"Ozone (O3, ppb)",72.8777,19.076,Monthly,89,Moderate
+01DD7276,Kolkata,01-05-2001,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,38,Good
+00D38B59,Delhi,01-06-2011,PM10 (µg/m³),77.1025,28.7041,Monthly,115,Poor
+01366AFD,Chennai,01-04-2000,PM10 (µg/m³),80.2707,13.0827,Monthly,186,Very Poor
+00526C73,Bengaluru,01-08-2016,PM2.5 (µg/m³),77.5946,12.9716,Monthly,168,Very Poor
+0264D49F,Bengaluru,01-09-2012,PM10 (µg/m³),77.5946,12.9716,Monthly,122,Poor
+00A2DB1C,Mumbai,01-11-2004,"Ozone (O3, ppb)",72.8777,19.076,Monthly,82,Moderate
+0056170E,Kolkata,01-02-2018,SO2 (ppb),88.3639,22.5726,Monthly,16,Good
+00C22A61,Kolkata,01-09-2012,NO2 (ppb),88.3639,22.5726,Monthly,20,Good
+01AEA524,Chennai,01-06-2001,NO2 (ppb),80.2707,13.0827,Monthly,22,Good
+00FFA34E,Bengaluru,01-10-2012,PM2.5 (µg/m³),77.5946,12.9716,Monthly,165,Very Poor
+02180EB4,Bengaluru,01-08-2008,SO2 (ppb),77.5946,12.9716,Monthly,33,Moderate
+024FF8F0,Chennai,01-01-2006,PM10 (µg/m³),80.2707,13.0827,Monthly,168,Very Poor
+0256328B,Kolkata,01-12-2006,SO2 (ppb),88.3639,22.5726,Monthly,21,Good
+00F57FA5,Bengaluru,01-06-2018,SO2 (ppb),77.5946,12.9716,Monthly,14,Good
+009D1BEC,Kolkata,01-06-2021,SO2 (ppb),88.3639,22.5726,Monthly,25,Good
+0237F2E9,Delhi,01-07-2022,NO2 (ppb),77.1025,28.7041,Monthly,48,Moderate
+003B88C6,Bengaluru,01-09-2000,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,59,Good
+01F025DD,Kolkata,01-04-2000,NO2 (ppb),88.3639,22.5726,Monthly,35,Moderate
+017BDD69,Mumbai,01-11-2000,PM10 (µg/m³),72.8777,19.076,Monthly,189,Very Poor
+02383D4B,Chennai,01-03-2012,SO2 (ppb),80.2707,13.0827,Monthly,45,Moderate
+0113C789,Mumbai,01-06-2014,PM2.5 (µg/m³),72.8777,19.076,Monthly,180,Very Poor
+00F4789B,Delhi,01-03-2014,SO2 (ppb),77.1025,28.7041,Monthly,17,Good
+0062F3C4,Bengaluru,01-04-2004,PM10 (µg/m³),77.5946,12.9716,Monthly,114,Poor
+00C3D9E0,Mumbai,01-01-2002,PM10 (µg/m³),72.8777,19.076,Monthly,100,Moderate
+01A43D62,Chennai,01-08-2009,SO2 (ppb),80.2707,13.0827,Monthly,35,Moderate
+004769A2,Chennai,01-08-2023,SO2 (ppb),80.2707,13.0827,Monthly,8,Good
+016BC804,Delhi,01-12-2000,PM10 (µg/m³),77.1025,28.7041,Monthly,115,Poor
+008E4E45,Kolkata,01-06-2023,PM10 (µg/m³),88.3639,22.5726,Monthly,160,Very Poor
+02372224,Mumbai,01-12-2012,PM10 (µg/m³),72.8777,19.076,Monthly,90,Moderate
+001CB5CC,Delhi,01-12-2006,PM10 (µg/m³),77.1025,28.7041,Monthly,177,Very Poor
+018E3061,Kolkata,01-04-2023,PM2.5 (µg/m³),88.3639,22.5726,Monthly,164,Very Poor
+012A7F0B,Kolkata,01-02-2022,SO2 (ppb),88.3639,22.5726,Monthly,40,Moderate
+015A56C0,Bengaluru,01-08-2011,PM10 (µg/m³),77.5946,12.9716,Monthly,120,Poor
+011A3BB6,Delhi,01-06-2012,PM2.5 (µg/m³),77.1025,28.7041,Monthly,132,Poor
+010ABF8E,Kolkata,01-03-2003,PM10 (µg/m³),88.3639,22.5726,Monthly,100,Moderate
+0111EA14,Delhi,01-01-2013,SO2 (ppb),77.1025,28.7041,Monthly,48,Moderate
+00D08595,Bengaluru,01-08-2021,NO2 (ppb),77.5946,12.9716,Monthly,12,Good
+00EBB42D,Bengaluru,01-05-2014,SO2 (ppb),77.5946,12.9716,Monthly,45,Moderate
+010B6082,Chennai,01-11-2001,PM2.5 (µg/m³),80.2707,13.0827,Monthly,127,Poor
+0101216B,Bengaluru,01-05-2011,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,43,Good
+021BF4A2,Mumbai,01-02-2013,PM2.5 (µg/m³),72.8777,19.076,Monthly,70,Moderate
+0165B598,Kolkata,01-01-2019,PM10 (µg/m³),88.3639,22.5726,Monthly,157,Very Poor
+016B0AAD,Delhi,01-01-2015,PM2.5 (µg/m³),77.1025,28.7041,Monthly,92,Moderate
+017A255F,Chennai,01-06-2022,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,84,Moderate
+00093369,Chennai,01-12-2008,SO2 (ppb),80.2707,13.0827,Monthly,29,Good
+0073F592,Kolkata,01-05-2017,NO2 (ppb),88.3639,22.5726,Monthly,44,Moderate
+0088CCC8,Mumbai,01-03-2022,PM10 (µg/m³),72.8777,19.076,Monthly,191,Very Poor
+02765F4E,Mumbai,01-08-2012,NO2 (ppb),72.8777,19.076,Monthly,27,Good
+02443620,Bengaluru,01-03-2001,SO2 (ppb),77.5946,12.9716,Monthly,7,Good
+00545E1F,Kolkata,01-06-2017,NO2 (ppb),88.3639,22.5726,Monthly,26,Good
+00C4C3B5,Chennai,01-01-2024,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,84,Moderate
+01D2F0E1,Chennai,01-01-2022,SO2 (ppb),80.2707,13.0827,Monthly,41,Moderate
+00190779,Mumbai,01-06-2004,SO2 (ppb),72.8777,19.076,Monthly,37,Moderate
+00EDD382,Delhi,01-06-2018,PM10 (µg/m³),77.1025,28.7041,Monthly,86,Moderate
+00973265,Mumbai,01-10-2015,SO2 (ppb),72.8777,19.076,Monthly,7,Good
+0077D85F,Mumbai,01-03-2005,"Ozone (O3, ppb)",72.8777,19.076,Monthly,35,Good
+016CA3A5,Chennai,01-01-2018,PM2.5 (µg/m³),80.2707,13.0827,Monthly,106,Poor
+024D03A5,Delhi,01-11-2004,PM10 (µg/m³),77.1025,28.7041,Monthly,97,Moderate
+023AD0E6,Delhi,01-02-2013,NO2 (ppb),77.1025,28.7041,Monthly,13,Good
+003ED738,Bengaluru,01-08-2014,NO2 (ppb),77.5946,12.9716,Monthly,11,Good
+01BEAF50,Chennai,01-05-2022,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,42,Good
+024A6261,Mumbai,01-04-2010,SO2 (ppb),72.8777,19.076,Monthly,46,Moderate
+0179A225,Mumbai,01-09-2014,SO2 (ppb),72.8777,19.076,Monthly,36,Moderate
+0282F5E6,Mumbai,01-11-2002,NO2 (ppb),72.8777,19.076,Monthly,39,Moderate
+028A8EC8,Delhi,01-11-2009,NO2 (ppb),77.1025,28.7041,Monthly,24,Good
+0282DA36,Mumbai,01-07-2023,NO2 (ppb),72.8777,19.076,Monthly,44,Moderate
+017F0A82,Mumbai,01-06-2006,SO2 (ppb),72.8777,19.076,Monthly,14,Good
+006A28B5,Chennai,01-08-2010,SO2 (ppb),80.2707,13.0827,Monthly,47,Moderate
+00F1F187,Kolkata,01-02-2008,SO2 (ppb),88.3639,22.5726,Monthly,14,Good
+01FF04E1,Mumbai,01-01-2016,NO2 (ppb),72.8777,19.076,Monthly,17,Good
+00A17117,Kolkata,01-07-2003,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,65,Moderate
+015542A9,Delhi,01-01-2024,PM10 (µg/m³),77.1025,28.7041,Monthly,144,Poor
+015CCCC7,Bengaluru,01-04-2010,SO2 (ppb),77.5946,12.9716,Monthly,28,Good
+012598C8,Bengaluru,01-09-2018,PM10 (µg/m³),77.5946,12.9716,Monthly,115,Poor
+021CB207,Kolkata,01-01-2003,SO2 (ppb),88.3639,22.5726,Monthly,14,Good
+004895E5,Kolkata,01-02-2000,SO2 (ppb),88.3639,22.5726,Monthly,44,Moderate
+00F51E6A,Chennai,01-10-2018,NO2 (ppb),80.2707,13.0827,Monthly,35,Moderate
+000630A4,Bengaluru,01-12-2020,PM2.5 (µg/m³),77.5946,12.9716,Monthly,86,Moderate
+00926168,Mumbai,01-09-2002,PM10 (µg/m³),72.8777,19.076,Monthly,183,Very Poor
+01111160,Bengaluru,01-04-2007,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,67,Moderate
+026020BC,Chennai,01-07-2023,PM10 (µg/m³),80.2707,13.0827,Monthly,127,Poor
+022E663B,Bengaluru,01-09-2014,PM2.5 (µg/m³),77.5946,12.9716,Monthly,58,Moderate
+028DDBB2,Bengaluru,01-04-2022,SO2 (ppb),77.5946,12.9716,Monthly,49,Moderate
+01E7FA39,Chennai,01-08-2002,SO2 (ppb),80.2707,13.0827,Monthly,35,Moderate
+01926D03,Delhi,01-04-2008,PM10 (µg/m³),77.1025,28.7041,Monthly,149,Poor
+01F4DB4F,Kolkata,01-06-2020,PM2.5 (µg/m³),88.3639,22.5726,Monthly,64,Moderate
+01F43C47,Delhi,01-05-2023,NO2 (ppb),77.1025,28.7041,Monthly,34,Moderate
+01A4E2C8,Delhi,01-04-2004,PM2.5 (µg/m³),77.1025,28.7041,Monthly,161,Very Poor
+02838469,Delhi,01-07-2005,PM10 (µg/m³),77.1025,28.7041,Monthly,192,Very Poor
+00BBF2ED,Mumbai,01-08-2001,SO2 (ppb),72.8777,19.076,Monthly,41,Moderate
+02124601,Bengaluru,01-03-2011,PM10 (µg/m³),77.5946,12.9716,Monthly,163,Very Poor
+00094F15,Bengaluru,01-04-2001,PM2.5 (µg/m³),77.5946,12.9716,Monthly,134,Poor
+00893AF2,Delhi,01-06-2022,PM10 (µg/m³),77.1025,28.7041,Monthly,136,Poor
+017C7BB5,Chennai,01-05-2007,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,85,Moderate
+0253D25F,Kolkata,01-10-2015,PM10 (µg/m³),88.3639,22.5726,Monthly,125,Poor
+009A486C,Mumbai,01-05-2008,PM10 (µg/m³),72.8777,19.076,Monthly,132,Poor
+012AD65E,Bengaluru,01-02-2008,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,53,Good
+01E70B83,Bengaluru,01-03-2017,PM2.5 (µg/m³),77.5946,12.9716,Monthly,179,Very Poor
+001B5E1A,Mumbai,01-07-2014,PM10 (µg/m³),72.8777,19.076,Monthly,152,Very Poor
+005FA1B2,Bengaluru,01-02-2016,SO2 (ppb),77.5946,12.9716,Monthly,47,Moderate
+00B80761,Kolkata,01-12-2000,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,66,Moderate
+01FFDBF1,Kolkata,01-04-2003,NO2 (ppb),88.3639,22.5726,Monthly,28,Good
+010124F9,Delhi,01-11-2011,NO2 (ppb),77.1025,28.7041,Monthly,14,Good
+019583A5,Mumbai,01-09-2022,PM2.5 (µg/m³),72.8777,19.076,Monthly,90,Moderate
+017BE736,Mumbai,01-08-2002,"Ozone (O3, ppb)",72.8777,19.076,Monthly,72,Moderate
+01AA8319,Bengaluru,01-05-2018,PM10 (µg/m³),77.5946,12.9716,Monthly,190,Very Poor
+01C6345D,Bengaluru,01-01-2004,PM10 (µg/m³),77.5946,12.9716,Monthly,76,Moderate
+00DF2C31,Kolkata,01-08-2001,NO2 (ppb),88.3639,22.5726,Monthly,50,Moderate
+006BF6A9,Mumbai,01-01-2000,PM10 (µg/m³),72.8777,19.076,Monthly,199,Very Poor
+00CBC48D,Kolkata,01-11-2015,PM2.5 (µg/m³),88.3639,22.5726,Monthly,85,Moderate
+00F14689,Mumbai,01-08-2023,"Ozone (O3, ppb)",72.8777,19.076,Monthly,35,Good
+00CA0591,Bengaluru,01-04-2012,PM10 (µg/m³),77.5946,12.9716,Monthly,111,Poor
+01A2D204,Kolkata,01-05-2022,NO2 (ppb),88.3639,22.5726,Monthly,28,Good
+00521C30,Bengaluru,01-07-2012,NO2 (ppb),77.5946,12.9716,Monthly,44,Moderate
+0024522F,Bengaluru,01-05-2006,SO2 (ppb),77.5946,12.9716,Monthly,16,Good
+00B94666,Kolkata,01-09-2010,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,37,Good
+02402544,Delhi,01-11-2021,PM10 (µg/m³),77.1025,28.7041,Monthly,200,Very Poor
+011D36CB,Delhi,01-08-2007,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,63,Moderate
+016A760C,Delhi,01-11-2022,NO2 (ppb),77.1025,28.7041,Monthly,35,Moderate
+00824FCD,Kolkata,01-04-2012,SO2 (ppb),88.3639,22.5726,Monthly,37,Moderate
+011DC297,Kolkata,01-06-2013,PM10 (µg/m³),88.3639,22.5726,Monthly,197,Very Poor
+017401D1,Kolkata,01-07-2010,PM2.5 (µg/m³),88.3639,22.5726,Monthly,144,Poor
+01580912,Chennai,01-05-2008,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,97,Moderate
+007C4E04,Mumbai,01-04-2012,PM2.5 (µg/m³),72.8777,19.076,Monthly,139,Poor
+014845F7,Mumbai,01-04-2014,"Ozone (O3, ppb)",72.8777,19.076,Monthly,83,Moderate
+00B53350,Delhi,01-08-2020,PM2.5 (µg/m³),77.1025,28.7041,Monthly,111,Poor
+00E12FA5,Chennai,01-05-2020,PM2.5 (µg/m³),80.2707,13.0827,Monthly,107,Poor
+013936E2,Delhi,01-10-2013,SO2 (ppb),77.1025,28.7041,Monthly,22,Good
+026ED493,Mumbai,01-04-2006,SO2 (ppb),72.8777,19.076,Monthly,23,Good
+01BF868C,Mumbai,01-04-2004,PM2.5 (µg/m³),72.8777,19.076,Monthly,165,Very Poor
+01CD5242,Bengaluru,01-04-2020,PM10 (µg/m³),77.5946,12.9716,Monthly,123,Poor
+0164E82C,Bengaluru,01-05-2022,PM2.5 (µg/m³),77.5946,12.9716,Monthly,100,Moderate
+00373902,Bengaluru,01-12-2014,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,38,Good
+022748BA,Bengaluru,01-02-2007,PM10 (µg/m³),77.5946,12.9716,Monthly,137,Poor
+012BD02C,Mumbai,01-03-2011,PM10 (µg/m³),72.8777,19.076,Monthly,108,Poor
+01E14B9C,Bengaluru,01-11-2022,SO2 (ppb),77.5946,12.9716,Monthly,16,Good
+007933FC,Mumbai,01-04-2016,PM2.5 (µg/m³),72.8777,19.076,Monthly,177,Very Poor
+00B7176C,Bengaluru,01-03-2003,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,82,Moderate
+00495A88,Kolkata,01-05-2004,SO2 (ppb),88.3639,22.5726,Monthly,41,Moderate
+020326B4,Kolkata,01-07-2001,PM10 (µg/m³),88.3639,22.5726,Monthly,200,Very Poor
+00B5B814,Delhi,01-02-2006,SO2 (ppb),77.1025,28.7041,Monthly,42,Moderate
+01F9AB68,Delhi,01-04-2019,NO2 (ppb),77.1025,28.7041,Monthly,33,Moderate
+0278BD6B,Bengaluru,01-07-2002,SO2 (ppb),77.5946,12.9716,Monthly,48,Moderate
+010CD823,Mumbai,01-10-2021,PM10 (µg/m³),72.8777,19.076,Monthly,181,Very Poor
+00F722C8,Bengaluru,01-01-2022,PM2.5 (µg/m³),77.5946,12.9716,Monthly,123,Poor
+00634B05,Bengaluru,01-02-2010,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,60,Good
+0112FFD7,Kolkata,01-11-2014,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,88,Moderate
+0175CB5E,Delhi,01-08-2003,SO2 (ppb),77.1025,28.7041,Monthly,34,Moderate
+00F20D8E,Chennai,01-04-2018,NO2 (ppb),80.2707,13.0827,Monthly,33,Moderate
+00B675B4,Bengaluru,01-01-2015,NO2 (ppb),77.5946,12.9716,Monthly,15,Good
+02735A11,Chennai,01-03-2010,PM2.5 (µg/m³),80.2707,13.0827,Monthly,112,Poor
+00C2228D,Delhi,01-08-2002,SO2 (ppb),77.1025,28.7041,Monthly,19,Good
+01DA0685,Mumbai,01-03-2023,"Ozone (O3, ppb)",72.8777,19.076,Monthly,49,Good
+01B3F766,Delhi,01-12-2002,PM10 (µg/m³),77.1025,28.7041,Monthly,55,Moderate
+00163F3A,Kolkata,01-08-2000,SO2 (ppb),88.3639,22.5726,Monthly,8,Good
+0071E6D0,Delhi,01-07-2009,PM2.5 (µg/m³),77.1025,28.7041,Monthly,102,Poor
+018502F4,Mumbai,01-11-2017,PM10 (µg/m³),72.8777,19.076,Monthly,82,Moderate
+0274FFF6,Mumbai,01-07-2003,"Ozone (O3, ppb)",72.8777,19.076,Monthly,31,Good
+01745219,Chennai,01-01-2004,SO2 (ppb),80.2707,13.0827,Monthly,22,Good
+01DF6B8D,Kolkata,01-06-2009,SO2 (ppb),88.3639,22.5726,Monthly,41,Moderate
+01C23529,Kolkata,01-09-2017,PM10 (µg/m³),88.3639,22.5726,Monthly,149,Poor
+019C2525,Delhi,01-04-2021,SO2 (ppb),77.1025,28.7041,Monthly,40,Moderate
+008DE14F,Kolkata,01-03-2013,NO2 (ppb),88.3639,22.5726,Monthly,18,Good
+024EA9CD,Chennai,01-06-2009,PM2.5 (µg/m³),80.2707,13.0827,Monthly,131,Poor
+01372AD3,Mumbai,01-05-2014,PM10 (µg/m³),72.8777,19.076,Monthly,145,Poor
+01B03CA6,Kolkata,01-07-2012,NO2 (ppb),88.3639,22.5726,Monthly,42,Moderate
+01F116EC,Kolkata,01-05-2002,SO2 (ppb),88.3639,22.5726,Monthly,6,Good
+0003803E,Chennai,01-02-2021,PM2.5 (µg/m³),80.2707,13.0827,Monthly,162,Very Poor
+019F5E1D,Delhi,01-06-2019,SO2 (ppb),77.1025,28.7041,Monthly,25,Good
+0107A8DF,Delhi,01-07-2013,PM10 (µg/m³),77.1025,28.7041,Monthly,137,Poor
+01E1AF6B,Bengaluru,01-12-2001,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,51,Good
+019558F8,Bengaluru,01-04-2014,SO2 (ppb),77.5946,12.9716,Monthly,5,Good
+02893530,Chennai,01-05-2002,PM10 (µg/m³),80.2707,13.0827,Monthly,131,Poor
+02677233,Chennai,01-11-2000,PM2.5 (µg/m³),80.2707,13.0827,Monthly,131,Poor
+014E9325,Bengaluru,01-09-2007,NO2 (ppb),77.5946,12.9716,Monthly,17,Good
+009AEB19,Bengaluru,01-07-2015,SO2 (ppb),77.5946,12.9716,Monthly,24,Good
+027CF35D,Chennai,01-02-2000,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,67,Moderate
+0250F681,Kolkata,01-09-2015,PM2.5 (µg/m³),88.3639,22.5726,Monthly,59,Moderate
+00E4162F,Mumbai,01-06-2002,NO2 (ppb),72.8777,19.076,Monthly,15,Good
+015B72C2,Mumbai,01-09-2001,NO2 (ppb),72.8777,19.076,Monthly,19,Good
+0202294E,Mumbai,01-05-2015,NO2 (ppb),72.8777,19.076,Monthly,33,Moderate
+002DFE64,Chennai,01-03-2011,PM10 (µg/m³),80.2707,13.0827,Monthly,187,Very Poor
+011B407E,Bengaluru,01-09-2015,PM2.5 (µg/m³),77.5946,12.9716,Monthly,151,Very Poor
+00360A32,Delhi,01-11-2001,SO2 (ppb),77.1025,28.7041,Monthly,13,Good
+003365C7,Bengaluru,01-03-2012,SO2 (ppb),77.5946,12.9716,Monthly,8,Good
+01412E70,Delhi,01-06-2014,NO2 (ppb),77.1025,28.7041,Monthly,38,Moderate
+0162DC07,Bengaluru,01-11-2023,NO2 (ppb),77.5946,12.9716,Monthly,10,Good
+00CFB7C1,Mumbai,01-05-2001,PM10 (µg/m³),72.8777,19.076,Monthly,116,Poor
+00A0AF82,Chennai,01-11-2023,PM2.5 (µg/m³),80.2707,13.0827,Monthly,89,Moderate
+00126079,Kolkata,01-07-2019,SO2 (ppb),88.3639,22.5726,Monthly,15,Good
+02706B30,Bengaluru,01-02-2017,NO2 (ppb),77.5946,12.9716,Monthly,21,Good
+0137719B,Chennai,01-03-2003,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,94,Moderate
+00921610,Chennai,01-10-2003,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,26,Good
+017609D9,Delhi,01-12-2008,SO2 (ppb),77.1025,28.7041,Monthly,21,Good
+0105F59F,Chennai,01-02-2016,PM2.5 (µg/m³),80.2707,13.0827,Monthly,185,Very Poor
+00017581,Bengaluru,01-09-2020,NO2 (ppb),77.5946,12.9716,Monthly,9,Good
+0156F85B,Chennai,01-04-2007,PM10 (µg/m³),80.2707,13.0827,Monthly,89,Moderate
+0186374B,Kolkata,01-11-2002,PM2.5 (µg/m³),88.3639,22.5726,Monthly,163,Very Poor
+00E66BBC,Delhi,01-06-2023,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,73,Moderate
+01D71AB8,Bengaluru,01-03-2014,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,25,Good
+01D1D973,Mumbai,01-06-2020,NO2 (ppb),72.8777,19.076,Monthly,20,Good
+00D15B18,Bengaluru,01-11-2000,SO2 (ppb),77.5946,12.9716,Monthly,32,Moderate
+0262401D,Mumbai,01-08-2015,"Ozone (O3, ppb)",72.8777,19.076,Monthly,58,Good
+011C5DEC,Kolkata,01-06-2001,NO2 (ppb),88.3639,22.5726,Monthly,7,Good
+004225E1,Bengaluru,01-07-2011,NO2 (ppb),77.5946,12.9716,Monthly,16,Good
+00FE1D65,Mumbai,01-06-2018,NO2 (ppb),72.8777,19.076,Monthly,36,Moderate
+0153D331,Delhi,01-11-2005,PM2.5 (µg/m³),77.1025,28.7041,Monthly,97,Moderate
+0052D39C,Bengaluru,01-07-2001,PM10 (µg/m³),77.5946,12.9716,Monthly,119,Poor
+0043796C,Chennai,01-01-2012,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,82,Moderate
+01BBEE0F,Mumbai,01-02-2008,"Ozone (O3, ppb)",72.8777,19.076,Monthly,60,Good
+01EE0C0D,Delhi,01-10-2000,PM2.5 (µg/m³),77.1025,28.7041,Monthly,190,Very Poor
+017BE983,Mumbai,01-12-2002,NO2 (ppb),72.8777,19.076,Monthly,25,Good
+0072D661,Delhi,01-06-2002,PM10 (µg/m³),77.1025,28.7041,Monthly,98,Moderate
+0006C8B3,Mumbai,01-03-2017,NO2 (ppb),72.8777,19.076,Monthly,7,Good
+01281399,Chennai,01-11-2022,PM10 (µg/m³),80.2707,13.0827,Monthly,89,Moderate
+00EDC86F,Mumbai,01-03-2014,PM2.5 (µg/m³),72.8777,19.076,Monthly,71,Moderate
+00A7701D,Delhi,01-09-2015,PM10 (µg/m³),77.1025,28.7041,Monthly,92,Moderate
+00816A47,Chennai,01-03-2007,PM10 (µg/m³),80.2707,13.0827,Monthly,110,Poor
+004D6880,Mumbai,01-05-2013,NO2 (ppb),72.8777,19.076,Monthly,23,Good
+00BA4F6B,Mumbai,01-08-2008,"Ozone (O3, ppb)",72.8777,19.076,Monthly,74,Moderate
+01A6EA9F,Kolkata,01-09-2005,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,70,Moderate
+010F8C3F,Chennai,01-12-2015,PM2.5 (µg/m³),80.2707,13.0827,Monthly,85,Moderate
+0061829C,Chennai,01-07-2003,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,38,Good
+01DC75ED,Bengaluru,01-04-2018,PM2.5 (µg/m³),77.5946,12.9716,Monthly,157,Very Poor
+006870A9,Mumbai,01-06-2011,"Ozone (O3, ppb)",72.8777,19.076,Monthly,80,Moderate
+00AC1599,Kolkata,01-11-2020,NO2 (ppb),88.3639,22.5726,Monthly,50,Moderate
+00B5AAED,Delhi,01-01-2018,PM10 (µg/m³),77.1025,28.7041,Monthly,148,Poor
+00DDAB53,Mumbai,01-11-2003,PM10 (µg/m³),72.8777,19.076,Monthly,188,Very Poor
+001075DA,Mumbai,01-07-2016,SO2 (ppb),72.8777,19.076,Monthly,26,Good
+01DD9C6D,Mumbai,01-05-2007,NO2 (ppb),72.8777,19.076,Monthly,23,Good
+0041FCF8,Mumbai,01-10-2003,PM10 (µg/m³),72.8777,19.076,Monthly,84,Moderate
+002D2F41,Kolkata,01-02-2012,SO2 (ppb),88.3639,22.5726,Monthly,49,Moderate
+0227E29E,Kolkata,01-09-2023,NO2 (ppb),88.3639,22.5726,Monthly,25,Good
+00EB9867,Bengaluru,01-03-2000,NO2 (ppb),77.5946,12.9716,Monthly,43,Moderate
+01B7DD69,Chennai,01-09-2011,PM2.5 (µg/m³),80.2707,13.0827,Monthly,194,Very Poor
+01D4A5C9,Kolkata,01-10-2021,PM10 (µg/m³),88.3639,22.5726,Monthly,53,Moderate
+0264710B,Kolkata,01-04-2021,PM10 (µg/m³),88.3639,22.5726,Monthly,57,Moderate
+00BFD8FA,Chennai,01-10-2016,NO2 (ppb),80.2707,13.0827,Monthly,38,Moderate
+00D8D956,Chennai,01-02-2019,SO2 (ppb),80.2707,13.0827,Monthly,7,Good
+0033DA30,Bengaluru,01-07-2014,PM2.5 (µg/m³),77.5946,12.9716,Monthly,109,Poor
+0151C9D6,Bengaluru,01-10-2013,SO2 (ppb),77.5946,12.9716,Monthly,22,Good
+012DF1F5,Bengaluru,01-03-2007,NO2 (ppb),77.5946,12.9716,Monthly,5,Good
+016F2182,Bengaluru,01-11-2006,PM10 (µg/m³),77.5946,12.9716,Monthly,86,Moderate
+028E6964,Bengaluru,01-10-2017,SO2 (ppb),77.5946,12.9716,Monthly,39,Moderate
+0145A1EE,Kolkata,01-01-2002,PM10 (µg/m³),88.3639,22.5726,Monthly,128,Poor
+00E2FF7D,Delhi,01-12-2004,SO2 (ppb),77.1025,28.7041,Monthly,36,Moderate
+013D66D7,Bengaluru,01-02-2013,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,29,Good
+015B1F6D,Kolkata,01-11-2016,NO2 (ppb),88.3639,22.5726,Monthly,11,Good
+02817FA2,Chennai,01-04-2015,NO2 (ppb),80.2707,13.0827,Monthly,46,Moderate
+019CE0F0,Kolkata,01-08-2011,SO2 (ppb),88.3639,22.5726,Monthly,6,Good
+01FDB4A9,Kolkata,01-12-2005,PM10 (µg/m³),88.3639,22.5726,Monthly,96,Moderate
+006CDA94,Chennai,01-08-2022,PM10 (µg/m³),80.2707,13.0827,Monthly,129,Poor
+0221E6B1,Mumbai,01-05-2011,PM2.5 (µg/m³),72.8777,19.076,Monthly,68,Moderate
+026E6753,Chennai,01-04-2014,PM10 (µg/m³),80.2707,13.0827,Monthly,176,Very Poor
+00D04696,Bengaluru,01-06-2003,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,77,Moderate
+019F41CF,Mumbai,01-09-2013,PM2.5 (µg/m³),72.8777,19.076,Monthly,163,Very Poor
+01778962,Kolkata,01-09-2022,PM10 (µg/m³),88.3639,22.5726,Monthly,171,Very Poor
+0250F9E2,Chennai,01-06-2011,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,40,Good
+00B5DEF5,Delhi,01-05-2009,NO2 (ppb),77.1025,28.7041,Monthly,30,Good
+0096623C,Chennai,01-12-2016,NO2 (ppb),80.2707,13.0827,Monthly,24,Good
+01A898F9,Mumbai,01-07-2015,SO2 (ppb),72.8777,19.076,Monthly,43,Moderate
+02763F6C,Kolkata,01-07-2017,SO2 (ppb),88.3639,22.5726,Monthly,45,Moderate
+021D7843,Mumbai,01-07-2002,NO2 (ppb),72.8777,19.076,Monthly,10,Good
+028CBA1B,Mumbai,01-02-2009,SO2 (ppb),72.8777,19.076,Monthly,43,Moderate
+0194801F,Mumbai,01-12-2020,"Ozone (O3, ppb)",72.8777,19.076,Monthly,21,Good
+01D156AA,Delhi,01-02-2009,NO2 (ppb),77.1025,28.7041,Monthly,31,Moderate
+00B65DC0,Chennai,01-09-2006,SO2 (ppb),80.2707,13.0827,Monthly,47,Moderate
+01FE74E8,Delhi,01-08-2013,NO2 (ppb),77.1025,28.7041,Monthly,8,Good
+01E9E50C,Delhi,01-11-2008,PM2.5 (µg/m³),77.1025,28.7041,Monthly,120,Poor
+004A69D5,Chennai,01-02-2011,SO2 (ppb),80.2707,13.0827,Monthly,18,Good
+0036C816,Bengaluru,01-06-2001,PM2.5 (µg/m³),77.5946,12.9716,Monthly,98,Moderate
+00126BEF,Chennai,01-09-2022,SO2 (ppb),80.2707,13.0827,Monthly,23,Good
+018C13F8,Chennai,01-11-2021,NO2 (ppb),80.2707,13.0827,Monthly,9,Good
+010EB8CC,Chennai,01-04-2020,NO2 (ppb),80.2707,13.0827,Monthly,14,Good
+00478AF8,Chennai,01-11-2019,NO2 (ppb),80.2707,13.0827,Monthly,26,Good
+003877D5,Kolkata,01-04-2022,NO2 (ppb),88.3639,22.5726,Monthly,21,Good
+025D70B0,Bengaluru,01-09-2003,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,69,Moderate
+01E95194,Chennai,01-12-2005,PM2.5 (µg/m³),80.2707,13.0827,Monthly,191,Very Poor
+010D5936,Chennai,01-09-2016,PM2.5 (µg/m³),80.2707,13.0827,Monthly,117,Poor
+016F8876,Chennai,01-07-2011,SO2 (ppb),80.2707,13.0827,Monthly,12,Good
+00B98536,Delhi,01-09-2000,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,95,Moderate
+00C70113,Delhi,01-04-2014,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,88,Moderate
+0190A10B,Delhi,01-08-2009,PM10 (µg/m³),77.1025,28.7041,Monthly,188,Very Poor
+00143E31,Chennai,01-11-2014,PM10 (µg/m³),80.2707,13.0827,Monthly,183,Very Poor
+01F1EDF2,Chennai,01-10-2017,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,74,Moderate
+0209E73E,Chennai,01-04-2012,PM2.5 (µg/m³),80.2707,13.0827,Monthly,92,Moderate
+01917FC8,Chennai,01-11-2004,PM10 (µg/m³),80.2707,13.0827,Monthly,99,Moderate
+01401545,Bengaluru,01-05-2023,PM2.5 (µg/m³),77.5946,12.9716,Monthly,113,Poor
+01469623,Kolkata,01-05-2014,PM10 (µg/m³),88.3639,22.5726,Monthly,142,Poor
+00C73303,Mumbai,01-11-2015,"Ozone (O3, ppb)",72.8777,19.076,Monthly,24,Good
+014360B1,Bengaluru,01-12-2021,PM10 (µg/m³),77.5946,12.9716,Monthly,161,Very Poor
+000E6899,Kolkata,01-08-2023,PM10 (µg/m³),88.3639,22.5726,Monthly,142,Poor
+017CEF0A,Mumbai,01-11-2010,PM2.5 (µg/m³),72.8777,19.076,Monthly,135,Poor
+009A2AE6,Delhi,01-09-2007,PM10 (µg/m³),77.1025,28.7041,Monthly,86,Moderate
+002F4373,Bengaluru,01-07-2021,SO2 (ppb),77.5946,12.9716,Monthly,33,Moderate
+008CBDA2,Delhi,01-11-2003,PM2.5 (µg/m³),77.1025,28.7041,Monthly,166,Very Poor
+004CD5F7,Delhi,01-07-2011,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,74,Moderate
+02004CD0,Bengaluru,01-09-2017,PM2.5 (µg/m³),77.5946,12.9716,Monthly,69,Moderate
+0228A72E,Chennai,01-06-2021,NO2 (ppb),80.2707,13.0827,Monthly,47,Moderate
+01C2AA2A,Mumbai,01-01-2019,SO2 (ppb),72.8777,19.076,Monthly,21,Good
+009E6563,Bengaluru,01-01-2019,PM2.5 (µg/m³),77.5946,12.9716,Monthly,101,Poor
+010B1A5F,Bengaluru,01-10-2016,PM2.5 (µg/m³),77.5946,12.9716,Monthly,163,Very Poor
+00291824,Bengaluru,01-07-2000,NO2 (ppb),77.5946,12.9716,Monthly,43,Moderate
+0151B071,Chennai,01-12-2013,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,37,Good
+00FCDECE,Mumbai,01-06-2012,NO2 (ppb),72.8777,19.076,Monthly,36,Moderate
+003C95B4,Chennai,01-12-2020,SO2 (ppb),80.2707,13.0827,Monthly,25,Good
+018ECB69,Kolkata,01-01-2008,PM10 (µg/m³),88.3639,22.5726,Monthly,127,Poor
+02011B48,Bengaluru,01-11-2010,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,42,Good
+00939B2C,Kolkata,01-08-2014,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,53,Good
+0237C40A,Chennai,01-03-2008,PM10 (µg/m³),80.2707,13.0827,Monthly,189,Very Poor
+02639273,Chennai,01-02-2022,SO2 (ppb),80.2707,13.0827,Monthly,19,Good
+01648AB1,Chennai,01-09-2010,SO2 (ppb),80.2707,13.0827,Monthly,41,Moderate
+0225F6D8,Chennai,01-02-2006,SO2 (ppb),80.2707,13.0827,Monthly,20,Good
+0153C9FD,Kolkata,01-08-2012,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,57,Good
+021622B0,Bengaluru,01-02-2011,SO2 (ppb),77.5946,12.9716,Monthly,9,Good
+00C0631F,Delhi,01-04-2000,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,96,Moderate
+01721E9E,Bengaluru,01-12-2017,PM10 (µg/m³),77.5946,12.9716,Monthly,182,Very Poor
+017D00C7,Mumbai,01-07-2018,NO2 (ppb),72.8777,19.076,Monthly,29,Good
+00CA79DD,Mumbai,01-05-2022,"Ozone (O3, ppb)",72.8777,19.076,Monthly,58,Good
+02855607,Chennai,01-08-2016,PM2.5 (µg/m³),80.2707,13.0827,Monthly,76,Moderate
+007E0C78,Chennai,01-10-2019,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,38,Good
+01D2351A,Kolkata,01-11-2018,SO2 (ppb),88.3639,22.5726,Monthly,16,Good
+01271218,Kolkata,01-09-2004,PM10 (µg/m³),88.3639,22.5726,Monthly,114,Poor
+0089C40D,Chennai,01-04-2011,PM2.5 (µg/m³),80.2707,13.0827,Monthly,116,Poor
+00123706,Chennai,01-08-2003,PM10 (µg/m³),80.2707,13.0827,Monthly,183,Very Poor
+02418F71,Delhi,01-03-2016,PM2.5 (µg/m³),77.1025,28.7041,Monthly,181,Very Poor
+0205EC56,Bengaluru,01-09-2008,PM10 (µg/m³),77.5946,12.9716,Monthly,73,Moderate
+008BA705,Kolkata,01-12-2015,NO2 (ppb),88.3639,22.5726,Monthly,10,Good
+0151511A,Mumbai,01-01-2007,"Ozone (O3, ppb)",72.8777,19.076,Monthly,76,Moderate
+00D0F9DF,Mumbai,01-11-2011,PM2.5 (µg/m³),72.8777,19.076,Monthly,57,Moderate
+01B8D37C,Delhi,01-08-2022,PM2.5 (µg/m³),77.1025,28.7041,Monthly,98,Moderate
+006E1370,Kolkata,01-12-2014,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,23,Good
+01FC1222,Mumbai,01-01-2024,NO2 (ppb),72.8777,19.076,Monthly,26,Good
+022A860E,Bengaluru,01-08-2019,SO2 (ppb),77.5946,12.9716,Monthly,50,Moderate
+010E97F2,Bengaluru,01-07-2018,NO2 (ppb),77.5946,12.9716,Monthly,6,Good
+02128BA4,Delhi,01-03-2011,SO2 (ppb),77.1025,28.7041,Monthly,6,Good
+0048444D,Chennai,01-09-2013,SO2 (ppb),80.2707,13.0827,Monthly,40,Moderate
+01C5F47D,Kolkata,01-12-2011,PM2.5 (µg/m³),88.3639,22.5726,Monthly,58,Moderate
+01328764,Bengaluru,01-01-2002,SO2 (ppb),77.5946,12.9716,Monthly,27,Good
+00462550,Delhi,01-03-2009,PM2.5 (µg/m³),77.1025,28.7041,Monthly,113,Poor
+028B12AE,Bengaluru,01-01-2014,SO2 (ppb),77.5946,12.9716,Monthly,17,Good
+0192574F,Mumbai,01-12-2005,"Ozone (O3, ppb)",72.8777,19.076,Monthly,70,Moderate
+0197BBC7,Delhi,01-09-2002,PM2.5 (µg/m³),77.1025,28.7041,Monthly,81,Moderate
+012E999A,Kolkata,01-06-2004,PM2.5 (µg/m³),88.3639,22.5726,Monthly,102,Poor
+01025A17,Chennai,01-03-2017,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,35,Good
+026B169B,Bengaluru,01-06-2023,PM10 (µg/m³),77.5946,12.9716,Monthly,50,Moderate
+01E82360,Delhi,01-03-2000,PM2.5 (µg/m³),77.1025,28.7041,Monthly,142,Poor
+008D4B98,Chennai,01-08-2015,PM10 (µg/m³),80.2707,13.0827,Monthly,127,Poor
+00CC9F84,Chennai,01-03-2021,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,30,Good
+01203E7F,Mumbai,01-03-2018,"Ozone (O3, ppb)",72.8777,19.076,Monthly,62,Moderate
+012CE898,Delhi,01-02-2001,PM2.5 (µg/m³),77.1025,28.7041,Monthly,108,Poor
+00DDB615,Mumbai,01-05-2010,"Ozone (O3, ppb)",72.8777,19.076,Monthly,100,Moderate
+0068E74E,Bengaluru,01-02-2020,SO2 (ppb),77.5946,12.9716,Monthly,29,Good
+0067D1F9,Bengaluru,01-10-2020,NO2 (ppb),77.5946,12.9716,Monthly,15,Good
+027E106A,Kolkata,01-11-2023,SO2 (ppb),88.3639,22.5726,Monthly,24,Good
+0047486D,Delhi,01-06-2001,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,41,Good
+00BC2FD2,Chennai,01-04-2002,NO2 (ppb),80.2707,13.0827,Monthly,18,Good
+024269C8,Kolkata,01-11-2005,PM2.5 (µg/m³),88.3639,22.5726,Monthly,113,Poor
+01C78D1A,Mumbai,01-06-2007,PM10 (µg/m³),72.8777,19.076,Monthly,68,Moderate
+00AEB711,Bengaluru,01-11-2009,PM2.5 (µg/m³),77.5946,12.9716,Monthly,73,Moderate
+00D1EC23,Kolkata,01-12-2023,PM2.5 (µg/m³),88.3639,22.5726,Monthly,102,Poor
+00E3989F,Kolkata,01-01-2005,SO2 (ppb),88.3639,22.5726,Monthly,50,Moderate
+0146F165,Mumbai,01-07-2022,PM2.5 (µg/m³),72.8777,19.076,Monthly,142,Poor
+0149C42D,Kolkata,01-10-2003,PM2.5 (µg/m³),88.3639,22.5726,Monthly,67,Moderate
+00E599A2,Chennai,01-04-2023,NO2 (ppb),80.2707,13.0827,Monthly,36,Moderate
+00C311AF,Kolkata,01-09-2013,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,67,Moderate
+018A7D87,Kolkata,01-03-2005,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,100,Moderate
+01DB8E05,Kolkata,01-03-2016,PM2.5 (µg/m³),88.3639,22.5726,Monthly,181,Very Poor
+00601898,Bengaluru,01-01-2020,NO2 (ppb),77.5946,12.9716,Monthly,11,Good
+017F17BA,Delhi,01-01-2012,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,36,Good
+0262EF74,Kolkata,01-03-2017,PM2.5 (µg/m³),88.3639,22.5726,Monthly,96,Moderate
+026FAB59,Mumbai,01-12-2021,PM10 (µg/m³),72.8777,19.076,Monthly,74,Moderate
+005EB069,Kolkata,01-01-2001,SO2 (ppb),88.3639,22.5726,Monthly,16,Good
+003010E3,Delhi,01-12-2019,NO2 (ppb),77.1025,28.7041,Monthly,34,Moderate
+006E0C18,Kolkata,01-05-2012,PM2.5 (µg/m³),88.3639,22.5726,Monthly,179,Very Poor
+00AEF36E,Kolkata,01-09-2007,PM2.5 (µg/m³),88.3639,22.5726,Monthly,133,Poor
+00DA1F01,Kolkata,01-12-2004,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,47,Good
+01ABB037,Chennai,01-06-2004,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,59,Good
+01136AAE,Chennai,01-02-2007,PM2.5 (µg/m³),80.2707,13.0827,Monthly,74,Moderate
+01E9A362,Chennai,01-02-2010,SO2 (ppb),80.2707,13.0827,Monthly,47,Moderate
+0048E57A,Mumbai,01-02-2011,PM2.5 (µg/m³),72.8777,19.076,Monthly,108,Poor
+00423E74,Delhi,01-05-2003,SO2 (ppb),77.1025,28.7041,Monthly,16,Good
+01498EF7,Delhi,01-05-2021,PM10 (µg/m³),77.1025,28.7041,Monthly,187,Very Poor
+00E0803D,Delhi,01-02-2007,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,81,Moderate
+002C0555,Chennai,01-08-2018,NO2 (ppb),80.2707,13.0827,Monthly,50,Moderate
+00D20FBA,Chennai,01-03-2019,SO2 (ppb),80.2707,13.0827,Monthly,9,Good
+022A72D1,Kolkata,01-09-2021,NO2 (ppb),88.3639,22.5726,Monthly,37,Moderate
+00D06932,Bengaluru,01-05-2013,SO2 (ppb),77.5946,12.9716,Monthly,44,Moderate
+01C7CA65,Mumbai,01-05-2023,NO2 (ppb),72.8777,19.076,Monthly,33,Moderate
+00371C5B,Kolkata,01-08-2020,PM2.5 (µg/m³),88.3639,22.5726,Monthly,181,Very Poor
+011D1E8B,Mumbai,01-01-2012,"Ozone (O3, ppb)",72.8777,19.076,Monthly,46,Good
+01CC9543,Mumbai,01-10-2020,"Ozone (O3, ppb)",72.8777,19.076,Monthly,62,Moderate
+00FB9102,Kolkata,01-07-2013,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,79,Moderate
+01790871,Delhi,01-02-2005,PM2.5 (µg/m³),77.1025,28.7041,Monthly,143,Poor
+004C212C,Mumbai,01-11-2018,NO2 (ppb),72.8777,19.076,Monthly,12,Good
+00276F9A,Mumbai,01-05-2000,PM2.5 (µg/m³),72.8777,19.076,Monthly,52,Moderate
+01D2FF41,Kolkata,01-10-2022,PM2.5 (µg/m³),88.3639,22.5726,Monthly,124,Poor
+0278D303,Bengaluru,01-01-2007,NO2 (ppb),77.5946,12.9716,Monthly,6,Good
+02709553,Chennai,01-04-2006,PM2.5 (µg/m³),80.2707,13.0827,Monthly,178,Very Poor
+0013B663,Delhi,01-03-2021,PM10 (µg/m³),77.1025,28.7041,Monthly,171,Very Poor
+01767966,Kolkata,01-02-2007,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,59,Good
+02619DE9,Delhi,01-04-2020,NO2 (ppb),77.1025,28.7041,Monthly,15,Good
+0284DD97,Chennai,01-08-2004,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,65,Moderate
+00954171,Mumbai,01-06-2001,NO2 (ppb),72.8777,19.076,Monthly,10,Good
+0077E592,Bengaluru,01-03-2005,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,91,Moderate
+0067BBC7,Kolkata,01-08-2007,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,65,Moderate
+01F9C765,Bengaluru,01-06-2022,SO2 (ppb),77.5946,12.9716,Monthly,23,Good
+01852FFD,Kolkata,01-08-2009,PM10 (µg/m³),88.3639,22.5726,Monthly,183,Very Poor
+00C5C4F1,Kolkata,01-02-2014,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,41,Good
+028C8B9F,Mumbai,01-11-2008,PM2.5 (µg/m³),72.8777,19.076,Monthly,129,Poor
+0104EDD1,Mumbai,01-03-2000,PM10 (µg/m³),72.8777,19.076,Monthly,180,Very Poor
+00BE3FA6,Chennai,01-06-2003,SO2 (ppb),80.2707,13.0827,Monthly,43,Moderate
+01EF0BB2,Bengaluru,01-02-2012,PM10 (µg/m³),77.5946,12.9716,Monthly,90,Moderate
+0183DC31,Mumbai,01-01-2020,"Ozone (O3, ppb)",72.8777,19.076,Monthly,55,Good
+024A6838,Chennai,01-01-2000,NO2 (ppb),80.2707,13.0827,Monthly,23,Good
+02274D68,Chennai,01-01-2016,PM10 (µg/m³),80.2707,13.0827,Monthly,154,Very Poor
+02177FFD,Mumbai,01-03-2019,PM10 (µg/m³),72.8777,19.076,Monthly,176,Very Poor
+006D3B48,Kolkata,01-10-2004,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,92,Moderate
+014606A4,Delhi,01-04-2001,SO2 (ppb),77.1025,28.7041,Monthly,41,Moderate
+013834A6,Mumbai,01-04-2017,"Ozone (O3, ppb)",72.8777,19.076,Monthly,27,Good
+0220279C,Kolkata,01-04-2016,NO2 (ppb),88.3639,22.5726,Monthly,30,Good
+0013FEC1,Mumbai,01-12-2008,NO2 (ppb),72.8777,19.076,Monthly,20,Good
+015AC820,Mumbai,01-04-2022,SO2 (ppb),72.8777,19.076,Monthly,23,Good
+00EA17E8,Kolkata,01-07-2014,NO2 (ppb),88.3639,22.5726,Monthly,48,Moderate
+003C71FE,Mumbai,01-01-2011,SO2 (ppb),72.8777,19.076,Monthly,8,Good
+001B1305,Mumbai,01-01-2005,"Ozone (O3, ppb)",72.8777,19.076,Monthly,95,Moderate
+014C8A59,Kolkata,01-04-2017,SO2 (ppb),88.3639,22.5726,Monthly,16,Good
+027EA9E8,Bengaluru,01-10-2007,PM2.5 (µg/m³),77.5946,12.9716,Monthly,171,Very Poor
+00B059B7,Chennai,01-11-2009,PM2.5 (µg/m³),80.2707,13.0827,Monthly,86,Moderate
+02516F49,Bengaluru,01-04-2013,NO2 (ppb),77.5946,12.9716,Monthly,34,Moderate
+014C84BE,Mumbai,01-06-2005,PM10 (µg/m³),72.8777,19.076,Monthly,62,Moderate
+00EC0A96,Kolkata,01-02-2003,NO2 (ppb),88.3639,22.5726,Monthly,30,Good
+023CB9D8,Chennai,01-10-2000,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,91,Moderate
+0008B92E,Bengaluru,01-08-2015,NO2 (ppb),77.5946,12.9716,Monthly,36,Moderate
+02280F87,Mumbai,01-04-2005,"Ozone (O3, ppb)",72.8777,19.076,Monthly,55,Good
+015A556B,Mumbai,01-12-2018,SO2 (ppb),72.8777,19.076,Monthly,21,Good
+01CD0404,Kolkata,01-12-2021,SO2 (ppb),88.3639,22.5726,Monthly,33,Moderate
+0147947F,Mumbai,01-07-2010,SO2 (ppb),72.8777,19.076,Monthly,48,Moderate
+010DBD41,Chennai,01-04-2016,SO2 (ppb),80.2707,13.0827,Monthly,13,Good
+0170413F,Chennai,01-07-2009,NO2 (ppb),80.2707,13.0827,Monthly,40,Moderate
+00D6C7F9,Delhi,01-09-2008,SO2 (ppb),77.1025,28.7041,Monthly,19,Good
+010C9DF7,Bengaluru,01-07-2022,NO2 (ppb),77.5946,12.9716,Monthly,8,Good
+01EF7B67,Mumbai,01-09-2023,SO2 (ppb),72.8777,19.076,Monthly,11,Good
+008765AE,Chennai,01-04-2009,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,34,Good
+0017FCE5,Mumbai,01-12-2013,PM10 (µg/m³),72.8777,19.076,Monthly,92,Moderate
+00151EF3,Bengaluru,01-04-2005,PM10 (µg/m³),77.5946,12.9716,Monthly,59,Moderate
+027BD571,Chennai,01-01-2007,SO2 (ppb),80.2707,13.0827,Monthly,42,Moderate
+002C8DA7,Bengaluru,01-09-2009,NO2 (ppb),77.5946,12.9716,Monthly,22,Good
+019C243D,Kolkata,01-06-2000,NO2 (ppb),88.3639,22.5726,Monthly,19,Good
+0043E44C,Delhi,01-10-2009,SO2 (ppb),77.1025,28.7041,Monthly,33,Moderate
+00C0B4BC,Mumbai,01-07-2004,PM2.5 (µg/m³),72.8777,19.076,Monthly,80,Moderate
+0001D1E0,Bengaluru,01-07-2007,SO2 (ppb),77.5946,12.9716,Monthly,12,Good
+00F5A143,Kolkata,01-06-2019,SO2 (ppb),88.3639,22.5726,Monthly,15,Good
+025A7107,Delhi,01-03-2002,NO2 (ppb),77.1025,28.7041,Monthly,26,Good
+0007B64F,Kolkata,01-02-2006,NO2 (ppb),88.3639,22.5726,Monthly,19,Good
+02090177,Bengaluru,01-03-2018,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,82,Moderate
+01085629,Chennai,01-11-2016,PM2.5 (µg/m³),80.2707,13.0827,Monthly,189,Very Poor
+0055CCDF,Delhi,01-08-2018,PM10 (µg/m³),77.1025,28.7041,Monthly,170,Very Poor
+00F46457,Mumbai,01-05-2012,PM2.5 (µg/m³),72.8777,19.076,Monthly,127,Poor
+024639A6,Mumbai,01-03-2010,PM2.5 (µg/m³),72.8777,19.076,Monthly,177,Very Poor
+023FDAF0,Delhi,01-02-2021,PM2.5 (µg/m³),77.1025,28.7041,Monthly,168,Very Poor
+01912618,Delhi,01-09-2010,PM2.5 (µg/m³),77.1025,28.7041,Monthly,135,Poor
+022CDB04,Mumbai,01-09-2019,NO2 (ppb),72.8777,19.076,Monthly,27,Good
+00D6ACA2,Kolkata,01-12-2018,PM2.5 (µg/m³),88.3639,22.5726,Monthly,136,Poor
+00C8FEBA,Delhi,01-03-2012,SO2 (ppb),77.1025,28.7041,Monthly,7,Good
+015BE298,Kolkata,01-01-2022,NO2 (ppb),88.3639,22.5726,Monthly,29,Good
+01381479,Chennai,01-01-2015,PM10 (µg/m³),80.2707,13.0827,Monthly,93,Moderate
+01CC0669,Delhi,01-10-2012,NO2 (ppb),77.1025,28.7041,Monthly,38,Moderate
+02278632,Kolkata,01-12-2016,PM10 (µg/m³),88.3639,22.5726,Monthly,155,Very Poor
+011B8B49,Delhi,01-03-2017,PM2.5 (µg/m³),77.1025,28.7041,Monthly,66,Moderate
+013573F6,Chennai,01-10-2009,NO2 (ppb),80.2707,13.0827,Monthly,8,Good
+012CC7B5,Mumbai,01-01-2008,"Ozone (O3, ppb)",72.8777,19.076,Monthly,98,Moderate
+020C4D50,Mumbai,01-08-2019,PM10 (µg/m³),72.8777,19.076,Monthly,185,Very Poor
+013199B7,Bengaluru,01-12-2000,SO2 (ppb),77.5946,12.9716,Monthly,41,Moderate
+01DB561E,Chennai,01-12-2002,PM10 (µg/m³),80.2707,13.0827,Monthly,188,Very Poor
+0283B6B6,Delhi,01-07-2019,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,35,Good
+024E6541,Delhi,01-08-2012,PM2.5 (µg/m³),77.1025,28.7041,Monthly,162,Very Poor
+016940EE,Bengaluru,01-02-2001,PM2.5 (µg/m³),77.5946,12.9716,Monthly,59,Moderate
+028EF78F,Delhi,01-09-2003,PM10 (µg/m³),77.1025,28.7041,Monthly,72,Moderate
+018ACFE3,Kolkata,01-04-2020,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,49,Good
+00472D2E,Mumbai,01-09-2016,PM10 (µg/m³),72.8777,19.076,Monthly,166,Very Poor
+021C1C16,Mumbai,01-09-2017,"Ozone (O3, ppb)",72.8777,19.076,Monthly,41,Good
+02190D88,Mumbai,01-02-2005,NO2 (ppb),72.8777,19.076,Monthly,23,Good
+002A97BF,Delhi,01-03-2022,NO2 (ppb),77.1025,28.7041,Monthly,36,Moderate
+008E690F,Delhi,01-07-2007,PM2.5 (µg/m³),77.1025,28.7041,Monthly,173,Very Poor
+01E6586C,Bengaluru,01-03-2009,NO2 (ppb),77.5946,12.9716,Monthly,6,Good
+0013707F,Delhi,01-10-2019,SO2 (ppb),77.1025,28.7041,Monthly,28,Good
+01AB6C11,Kolkata,01-07-2018,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,70,Moderate
+028B32E6,Bengaluru,01-03-2008,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,74,Moderate
+01C093BD,Kolkata,01-05-2020,NO2 (ppb),88.3639,22.5726,Monthly,11,Good
+0045319A,Bengaluru,01-06-2010,NO2 (ppb),77.5946,12.9716,Monthly,19,Good
+01F22291,Mumbai,01-01-2014,NO2 (ppb),72.8777,19.076,Monthly,17,Good
+0216285A,Chennai,01-08-2006,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,38,Good
+020724FB,Kolkata,01-06-2014,NO2 (ppb),88.3639,22.5726,Monthly,36,Moderate
+0123FD43,Delhi,01-10-2018,PM10 (µg/m³),77.1025,28.7041,Monthly,167,Very Poor
+002B31E0,Mumbai,01-10-2014,PM10 (µg/m³),72.8777,19.076,Monthly,100,Moderate
+0080D2F8,Mumbai,01-02-2001,SO2 (ppb),72.8777,19.076,Monthly,31,Moderate
+028E557B,Kolkata,01-06-2018,SO2 (ppb),88.3639,22.5726,Monthly,47,Moderate
+017509BE,Kolkata,01-07-2004,SO2 (ppb),88.3639,22.5726,Monthly,9,Good
+002F4DBA,Bengaluru,01-08-2020,PM10 (µg/m³),77.5946,12.9716,Monthly,128,Poor
+01E38AE1,Kolkata,01-08-2008,NO2 (ppb),88.3639,22.5726,Monthly,27,Good
+003C92D9,Kolkata,01-08-2021,PM2.5 (µg/m³),88.3639,22.5726,Monthly,134,Poor
+019FC78C,Bengaluru,01-08-2023,SO2 (ppb),77.5946,12.9716,Monthly,11,Good
+00CE672B,Delhi,01-05-2001,PM10 (µg/m³),77.1025,28.7041,Monthly,68,Moderate
+019D5DE7,Bengaluru,01-05-2020,SO2 (ppb),77.5946,12.9716,Monthly,22,Good
+0183B609,Delhi,01-05-2016,PM2.5 (µg/m³),77.1025,28.7041,Monthly,168,Very Poor
+01C142AE,Chennai,01-09-2000,NO2 (ppb),80.2707,13.0827,Monthly,13,Good
+001FFEAE,Chennai,01-08-2008,SO2 (ppb),80.2707,13.0827,Monthly,5,Good
+0002EFCB,Chennai,01-11-2015,NO2 (ppb),80.2707,13.0827,Monthly,28,Good
+0079D10E,Delhi,01-01-2009,PM10 (µg/m³),77.1025,28.7041,Monthly,100,Moderate
+005D918D,Mumbai,01-02-2023,PM10 (µg/m³),72.8777,19.076,Monthly,131,Poor
+01067538,Mumbai,01-05-2016,PM10 (µg/m³),72.8777,19.076,Monthly,122,Poor
+011D8325,Kolkata,01-03-2014,NO2 (ppb),88.3639,22.5726,Monthly,20,Good
+012B873E,Mumbai,01-07-2017,PM2.5 (µg/m³),72.8777,19.076,Monthly,55,Moderate
+00EC3D2B,Kolkata,01-01-2017,SO2 (ppb),88.3639,22.5726,Monthly,47,Moderate
+00B02961,Mumbai,01-07-2000,"Ozone (O3, ppb)",72.8777,19.076,Monthly,33,Good
+00C0DD0D,Delhi,01-11-2013,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,29,Good
+004AC0A1,Chennai,01-07-2008,PM2.5 (µg/m³),80.2707,13.0827,Monthly,109,Poor
+006BB438,Delhi,01-05-2015,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,57,Good
+027E93A7,Bengaluru,01-05-2007,SO2 (ppb),77.5946,12.9716,Monthly,5,Good
+01A5EAAA,Mumbai,01-04-2003,PM2.5 (µg/m³),72.8777,19.076,Monthly,107,Poor
+0022EA72,Bengaluru,01-10-2014,SO2 (ppb),77.5946,12.9716,Monthly,35,Moderate
+02541A82,Mumbai,01-06-2009,PM2.5 (µg/m³),72.8777,19.076,Monthly,157,Very Poor
+003662C6,Delhi,01-01-2000,PM10 (µg/m³),77.1025,28.7041,Monthly,115,Poor
+00FE59F2,Kolkata,01-05-2006,PM2.5 (µg/m³),88.3639,22.5726,Monthly,200,Very Poor
+024F9055,Kolkata,01-10-2016,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,91,Moderate
+00F3DD65,Mumbai,01-09-2008,NO2 (ppb),72.8777,19.076,Monthly,6,Good
+01FA6D6C,Chennai,01-07-2016,PM10 (µg/m³),80.2707,13.0827,Monthly,88,Moderate
+01F268C3,Delhi,01-12-2003,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,45,Good
+00DEAF6C,Delhi,01-07-2015,SO2 (ppb),77.1025,28.7041,Monthly,25,Good
+01268DDA,Kolkata,01-06-2007,PM10 (µg/m³),88.3639,22.5726,Monthly,107,Poor
+00E97E67,Mumbai,01-08-2004,"Ozone (O3, ppb)",72.8777,19.076,Monthly,26,Good
+025C03F5,Delhi,01-10-2016,NO2 (ppb),77.1025,28.7041,Monthly,35,Moderate
+01B20355,Delhi,01-01-2019,PM2.5 (µg/m³),77.1025,28.7041,Monthly,74,Moderate
+022F609F,Chennai,01-05-2021,SO2 (ppb),80.2707,13.0827,Monthly,28,Good
+001F1B4B,Chennai,01-05-2004,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,70,Moderate
+00E5F76C,Kolkata,01-06-2008,SO2 (ppb),88.3639,22.5726,Monthly,44,Moderate
+00A1BFE8,Delhi,01-01-2006,NO2 (ppb),77.1025,28.7041,Monthly,32,Moderate
+01EAEACF,Delhi,01-03-2023,NO2 (ppb),77.1025,28.7041,Monthly,17,Good
+01BE431B,Delhi,01-08-2023,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,23,Good
+0167C575,Bengaluru,01-12-2022,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,62,Moderate
+00D3B305,Mumbai,01-01-2013,PM2.5 (µg/m³),72.8777,19.076,Monthly,80,Moderate
+014F5941,Mumbai,01-10-2013,NO2 (ppb),72.8777,19.076,Monthly,35,Moderate
+011AAB38,Kolkata,01-08-2019,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,78,Moderate
+008F0B37,Kolkata,01-11-2012,PM2.5 (µg/m³),88.3639,22.5726,Monthly,133,Poor
+004CDBD8,Delhi,01-05-2006,PM2.5 (µg/m³),77.1025,28.7041,Monthly,192,Very Poor
+00CD6E34,Kolkata,01-08-2004,NO2 (ppb),88.3639,22.5726,Monthly,44,Moderate
+0069D4B0,Kolkata,01-01-2009,NO2 (ppb),88.3639,22.5726,Monthly,31,Moderate
+016BEEEF,Mumbai,01-10-2004,PM2.5 (µg/m³),72.8777,19.076,Monthly,190,Very Poor
+00B82FEA,Delhi,01-03-2004,SO2 (ppb),77.1025,28.7041,Monthly,37,Moderate
+007C302A,Chennai,01-10-2010,SO2 (ppb),80.2707,13.0827,Monthly,16,Good
+02634FAB,Chennai,01-11-2007,NO2 (ppb),80.2707,13.0827,Monthly,47,Moderate
+01FD7E8E,Kolkata,01-11-2001,SO2 (ppb),88.3639,22.5726,Monthly,43,Moderate
+015269D9,Bengaluru,01-10-2018,PM10 (µg/m³),77.5946,12.9716,Monthly,181,Very Poor
+00AB5A12,Bengaluru,01-04-2017,PM10 (µg/m³),77.5946,12.9716,Monthly,99,Moderate
+025AFC17,Kolkata,01-11-2004,NO2 (ppb),88.3639,22.5726,Monthly,17,Good
+016AD99C,Mumbai,01-07-2008,PM10 (µg/m³),72.8777,19.076,Monthly,184,Very Poor
+013FFEDA,Bengaluru,01-07-2013,PM2.5 (µg/m³),77.5946,12.9716,Monthly,122,Poor
+00796A6C,Kolkata,01-09-2003,NO2 (ppb),88.3639,22.5726,Monthly,46,Moderate
+020EA2C0,Chennai,01-09-2023,SO2 (ppb),80.2707,13.0827,Monthly,6,Good
+01AA633C,Chennai,01-08-2012,SO2 (ppb),80.2707,13.0827,Monthly,24,Good
+00C7C381,Chennai,01-09-2012,PM2.5 (µg/m³),80.2707,13.0827,Monthly,79,Moderate
+013A6B4F,Delhi,01-10-2015,PM10 (µg/m³),77.1025,28.7041,Monthly,129,Poor
+01DC02E6,Delhi,01-11-2007,SO2 (ppb),77.1025,28.7041,Monthly,9,Good
+02698963,Delhi,01-09-2012,PM2.5 (µg/m³),77.1025,28.7041,Monthly,73,Moderate
+00E4674A,Mumbai,01-11-2012,PM10 (µg/m³),72.8777,19.076,Monthly,192,Very Poor
+017459BD,Chennai,01-05-2000,PM10 (µg/m³),80.2707,13.0827,Monthly,128,Poor
+015908FD,Mumbai,01-11-2007,NO2 (ppb),72.8777,19.076,Monthly,40,Moderate
+00737A9C,Delhi,01-09-2001,SO2 (ppb),77.1025,28.7041,Monthly,41,Moderate
+0041BA13,Chennai,01-10-2014,SO2 (ppb),80.2707,13.0827,Monthly,45,Moderate
+013439B0,Mumbai,01-06-2017,NO2 (ppb),72.8777,19.076,Monthly,49,Moderate
+02586908,Chennai,01-01-2009,SO2 (ppb),80.2707,13.0827,Monthly,39,Moderate
+01B8E0A1,Mumbai,01-08-2000,NO2 (ppb),72.8777,19.076,Monthly,37,Moderate
+02837338,Mumbai,01-12-2009,"Ozone (O3, ppb)",72.8777,19.076,Monthly,72,Moderate
+00CC23EC,Bengaluru,01-06-2016,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,82,Moderate
+0008EA8E,Delhi,01-08-2017,PM2.5 (µg/m³),77.1025,28.7041,Monthly,158,Very Poor
+011C1F80,Bengaluru,01-11-2003,NO2 (ppb),77.5946,12.9716,Monthly,20,Good
+013A7320,Chennai,01-05-2005,PM2.5 (µg/m³),80.2707,13.0827,Monthly,115,Poor
+01D13B61,Mumbai,01-05-2019,PM10 (µg/m³),72.8777,19.076,Monthly,105,Poor
+003832DB,Bengaluru,01-07-2016,PM2.5 (µg/m³),77.5946,12.9716,Monthly,136,Poor
+00DD0B6A,Mumbai,01-12-2022,PM2.5 (µg/m³),72.8777,19.076,Monthly,109,Poor
+00C90360,Mumbai,01-12-2003,"Ozone (O3, ppb)",72.8777,19.076,Monthly,50,Good
+01C38243,Kolkata,01-07-2015,PM10 (µg/m³),88.3639,22.5726,Monthly,177,Very Poor
+0169B5D6,Kolkata,01-01-2007,PM10 (µg/m³),88.3639,22.5726,Monthly,65,Moderate
+01B01471,Kolkata,01-01-2024,NO2 (ppb),88.3639,22.5726,Monthly,35,Moderate
+0232CD24,Kolkata,01-02-2016,NO2 (ppb),88.3639,22.5726,Monthly,39,Moderate
+01DB691E,Kolkata,01-11-2021,NO2 (ppb),88.3639,22.5726,Monthly,19,Good
+01EC0248,Bengaluru,01-05-2009,PM10 (µg/m³),77.5946,12.9716,Monthly,191,Very Poor
+00256E79,Delhi,01-03-2019,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,50,Good
+001A629B,Kolkata,01-06-2012,NO2 (ppb),88.3639,22.5726,Monthly,43,Moderate
+010424F1,Kolkata,01-12-2017,PM10 (µg/m³),88.3639,22.5726,Monthly,80,Moderate
+02149DE1,Kolkata,01-04-2015,PM2.5 (µg/m³),88.3639,22.5726,Monthly,70,Moderate
+00429E10,Chennai,01-08-2000,PM2.5 (µg/m³),80.2707,13.0827,Monthly,143,Poor
+01C199A1,Chennai,01-10-2021,PM10 (µg/m³),80.2707,13.0827,Monthly,150,Poor
+00DCDBA8,Mumbai,01-09-2012,NO2 (ppb),72.8777,19.076,Monthly,16,Good
+0241E0AC,Delhi,01-10-2004,NO2 (ppb),77.1025,28.7041,Monthly,40,Moderate
+00DA3DCF,Mumbai,01-06-2021,SO2 (ppb),72.8777,19.076,Monthly,34,Moderate
+005870DD,Kolkata,01-01-2013,NO2 (ppb),88.3639,22.5726,Monthly,39,Moderate
+00CCEE14,Chennai,01-05-2001,PM2.5 (µg/m³),80.2707,13.0827,Monthly,186,Very Poor
+0143B511,Bengaluru,01-06-2019,NO2 (ppb),77.5946,12.9716,Monthly,50,Moderate
+011AD5D6,Bengaluru,01-09-2002,SO2 (ppb),77.5946,12.9716,Monthly,32,Moderate
+0274A2D3,Delhi,01-12-2009,NO2 (ppb),77.1025,28.7041,Monthly,7,Good
+00519C42,Bengaluru,01-05-2004,PM10 (µg/m³),77.5946,12.9716,Monthly,134,Poor
+0237E446,Mumbai,01-09-2003,"Ozone (O3, ppb)",72.8777,19.076,Monthly,70,Moderate
+011C88D2,Bengaluru,01-07-2020,SO2 (ppb),77.5946,12.9716,Monthly,40,Moderate
+00CA7A02,Bengaluru,01-01-2024,SO2 (ppb),77.5946,12.9716,Monthly,8,Good
+01E9A69E,Kolkata,01-07-2005,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,86,Moderate
+0178E674,Chennai,01-12-2003,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,92,Moderate
+01CE3F2E,Bengaluru,01-05-2016,SO2 (ppb),77.5946,12.9716,Monthly,6,Good
+00EB7819,Kolkata,01-08-2017,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,95,Moderate
+01B4BFA8,Delhi,01-12-2014,PM10 (µg/m³),77.1025,28.7041,Monthly,188,Very Poor
+00582B4C,Chennai,01-02-2003,NO2 (ppb),80.2707,13.0827,Monthly,27,Good
+006BCAB1,Kolkata,01-07-2016,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,69,Moderate
+00325236,Bengaluru,01-09-2010,NO2 (ppb),77.5946,12.9716,Monthly,17,Good
+003EF1EE,Chennai,01-05-2016,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,89,Moderate
+003787A0,Kolkata,01-05-2019,NO2 (ppb),88.3639,22.5726,Monthly,17,Good
+01907D7B,Mumbai,01-03-2020,"Ozone (O3, ppb)",72.8777,19.076,Monthly,56,Good
+014BE1C3,Bengaluru,01-02-2019,SO2 (ppb),77.5946,12.9716,Monthly,7,Good
+00CA87AD,Kolkata,01-01-2018,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,21,Good
+0106C3F3,Mumbai,01-07-2006,PM2.5 (µg/m³),72.8777,19.076,Monthly,55,Moderate
+00184792,Bengaluru,01-04-2006,NO2 (ppb),77.5946,12.9716,Monthly,18,Good
+004C02E7,Bengaluru,01-04-2008,PM10 (µg/m³),77.5946,12.9716,Monthly,106,Poor
+013A03E4,Delhi,01-07-2010,SO2 (ppb),77.1025,28.7041,Monthly,34,Moderate
+000234DF,Chennai,01-01-2020,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,25,Good
+02649520,Chennai,01-10-2002,PM2.5 (µg/m³),80.2707,13.0827,Monthly,172,Very Poor
+005DCC1C,Kolkata,01-10-2013,NO2 (ppb),88.3639,22.5726,Monthly,31,Moderate
+01848C7D,Kolkata,01-03-2009,NO2 (ppb),88.3639,22.5726,Monthly,38,Moderate
+018705F8,Chennai,01-07-2019,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,83,Moderate
+02332284,Bengaluru,01-06-2000,NO2 (ppb),77.5946,12.9716,Monthly,32,Moderate
+0124FD94,Mumbai,01-02-2010,PM10 (µg/m³),72.8777,19.076,Monthly,96,Moderate
+017E2290,Chennai,01-06-2002,PM2.5 (µg/m³),80.2707,13.0827,Monthly,52,Moderate
+0036D2EB,Chennai,01-05-2013,SO2 (ppb),80.2707,13.0827,Monthly,12,Good
+0226485D,Delhi,01-02-2002,PM10 (µg/m³),77.1025,28.7041,Monthly,95,Moderate
+01386832,Mumbai,01-02-2022,"Ozone (O3, ppb)",72.8777,19.076,Monthly,88,Moderate
+021E3716,Bengaluru,01-06-2014,PM2.5 (µg/m³),77.5946,12.9716,Monthly,134,Poor
+01EFEC14,Bengaluru,01-03-2002,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,70,Moderate
+005781A1,Delhi,01-12-2011,NO2 (ppb),77.1025,28.7041,Monthly,14,Good
+00045440,Bengaluru,01-10-2006,PM10 (µg/m³),77.5946,12.9716,Monthly,60,Moderate
+013427A8,Kolkata,01-11-2000,SO2 (ppb),88.3639,22.5726,Monthly,15,Good
+00A0B864,Delhi,01-06-2015,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,99,Moderate
+014622A3,Bengaluru,01-05-2001,SO2 (ppb),77.5946,12.9716,Monthly,25,Good
+009EBAB2,Chennai,01-02-2001,NO2 (ppb),80.2707,13.0827,Monthly,27,Good
+02477502,Mumbai,01-03-2015,NO2 (ppb),72.8777,19.076,Monthly,10,Good
+01DEF6FE,Chennai,01-07-2018,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,61,Moderate
+00E957B1,Chennai,01-05-2011,PM10 (µg/m³),80.2707,13.0827,Monthly,128,Poor
+00A91EA8,Bengaluru,01-08-2003,SO2 (ppb),77.5946,12.9716,Monthly,22,Good
+009B20D6,Kolkata,01-08-2013,PM2.5 (µg/m³),88.3639,22.5726,Monthly,52,Moderate
+019BA622,Chennai,01-09-2020,PM2.5 (µg/m³),80.2707,13.0827,Monthly,191,Very Poor
+00D9F91B,Delhi,01-05-2005,NO2 (ppb),77.1025,28.7041,Monthly,30,Good
+00F7F037,Mumbai,01-04-2015,PM2.5 (µg/m³),72.8777,19.076,Monthly,121,Poor
+0018219C,Delhi,01-11-2006,NO2 (ppb),77.1025,28.7041,Monthly,6,Good
+003727F7,Chennai,01-12-2014,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,42,Good
+00867C7B,Kolkata,01-10-2010,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,52,Good
+0203C7E6,Chennai,01-03-2020,NO2 (ppb),80.2707,13.0827,Monthly,42,Moderate
+006E897F,Bengaluru,01-11-2002,PM2.5 (µg/m³),77.5946,12.9716,Monthly,196,Very Poor
+00D891DD,Kolkata,01-10-2005,PM2.5 (µg/m³),88.3639,22.5726,Monthly,180,Very Poor
+019F7319,Kolkata,01-11-2006,SO2 (ppb),88.3639,22.5726,Monthly,25,Good
+01346949,Kolkata,01-07-2000,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,89,Moderate
+01BA7330,Delhi,01-06-2005,NO2 (ppb),77.1025,28.7041,Monthly,49,Moderate
+0213409C,Bengaluru,01-04-2023,PM10 (µg/m³),77.5946,12.9716,Monthly,66,Moderate
+023602AC,Mumbai,01-01-2004,SO2 (ppb),72.8777,19.076,Monthly,43,Moderate
+003B8068,Chennai,01-12-2001,PM2.5 (µg/m³),80.2707,13.0827,Monthly,147,Poor
+00FD4A59,Mumbai,01-11-2001,"Ozone (O3, ppb)",72.8777,19.076,Monthly,97,Moderate
+02837739,Mumbai,01-08-2010,NO2 (ppb),72.8777,19.076,Monthly,27,Good
+009C2250,Chennai,01-07-2002,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,72,Moderate
+01AEDF2E,Chennai,01-01-2001,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,67,Moderate
+00BB950F,Bengaluru,01-01-2018,PM10 (µg/m³),77.5946,12.9716,Monthly,153,Very Poor
+01C2412C,Delhi,01-10-2020,PM10 (µg/m³),77.1025,28.7041,Monthly,175,Very Poor
+01B3FD6A,Chennai,01-05-2015,SO2 (ppb),80.2707,13.0827,Monthly,11,Good
+01235074,Bengaluru,01-06-2011,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,32,Good
+001CCC52,Mumbai,01-02-2000,NO2 (ppb),72.8777,19.076,Monthly,8,Good
+015630A1,Bengaluru,01-03-2022,PM10 (µg/m³),77.5946,12.9716,Monthly,160,Very Poor
+0077BF5F,Delhi,01-09-2022,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,43,Good
+013B4456,Kolkata,01-11-2010,PM10 (µg/m³),88.3639,22.5726,Monthly,165,Very Poor
+00B0CBDA,Chennai,01-07-2012,NO2 (ppb),80.2707,13.0827,Monthly,14,Good
+011073F3,Mumbai,01-04-2009,"Ozone (O3, ppb)",72.8777,19.076,Monthly,43,Good
+0126C3E4,Mumbai,01-04-2019,NO2 (ppb),72.8777,19.076,Monthly,10,Good
+0121660D,Mumbai,01-09-2020,PM2.5 (µg/m³),72.8777,19.076,Monthly,198,Very Poor
+006D9535,Kolkata,01-02-2001,PM2.5 (µg/m³),88.3639,22.5726,Monthly,51,Moderate
+025F6AB7,Delhi,01-12-2010,PM10 (µg/m³),77.1025,28.7041,Monthly,126,Poor
+00BEE2C4,Kolkata,01-02-2017,PM2.5 (µg/m³),88.3639,22.5726,Monthly,178,Very Poor
+01891D81,Bengaluru,01-03-2023,PM2.5 (µg/m³),77.5946,12.9716,Monthly,101,Poor
+01930CB6,Bengaluru,01-05-2000,PM2.5 (µg/m³),77.5946,12.9716,Monthly,110,Poor
+01F8C93F,Mumbai,01-04-2011,PM2.5 (µg/m³),72.8777,19.076,Monthly,102,Poor
+007BC1F8,Delhi,01-07-2018,NO2 (ppb),77.1025,28.7041,Monthly,20,Good
+02496A31,Chennai,01-04-2003,NO2 (ppb),80.2707,13.0827,Monthly,45,Moderate
+0187B58F,Bengaluru,01-11-2018,SO2 (ppb),77.5946,12.9716,Monthly,36,Moderate
+02157EA9,Chennai,01-08-2001,SO2 (ppb),80.2707,13.0827,Monthly,34,Moderate
+019D0BA1,Kolkata,01-07-2022,PM10 (µg/m³),88.3639,22.5726,Monthly,132,Poor
+00F7B357,Kolkata,01-10-2023,NO2 (ppb),88.3639,22.5726,Monthly,43,Moderate
+003CF860,Chennai,01-04-2013,SO2 (ppb),80.2707,13.0827,Monthly,31,Moderate
+0043F6FB,Bengaluru,01-01-2003,SO2 (ppb),77.5946,12.9716,Monthly,6,Good
+00D316EB,Kolkata,01-07-2011,SO2 (ppb),88.3639,22.5726,Monthly,7,Good
+01A0B39F,Mumbai,01-08-2006,PM2.5 (µg/m³),72.8777,19.076,Monthly,199,Very Poor
+01181000,Delhi,01-02-2017,PM10 (µg/m³),77.1025,28.7041,Monthly,84,Moderate
+01A22906,Kolkata,01-04-2007,PM10 (µg/m³),88.3639,22.5726,Monthly,90,Moderate
+017F17CA,Kolkata,01-03-2010,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,33,Good
+0224F74B,Chennai,01-02-2009,PM10 (µg/m³),80.2707,13.0827,Monthly,122,Poor
+014236F9,Kolkata,01-05-2015,NO2 (ppb),88.3639,22.5726,Monthly,11,Good
+0167CC7D,Delhi,01-06-2006,NO2 (ppb),77.1025,28.7041,Monthly,48,Moderate
+028992EB,Bengaluru,01-08-2001,SO2 (ppb),77.5946,12.9716,Monthly,39,Moderate
+016A1F18,Bengaluru,01-03-2019,NO2 (ppb),77.5946,12.9716,Monthly,15,Good
+011B5958,Mumbai,01-10-2005,SO2 (ppb),72.8777,19.076,Monthly,41,Moderate
+0181DC6F,Delhi,01-07-2001,SO2 (ppb),77.1025,28.7041,Monthly,37,Moderate
+00D8D78C,Mumbai,01-10-2018,PM10 (µg/m³),72.8777,19.076,Monthly,118,Poor
+0269ADD1,Kolkata,01-02-2019,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,75,Moderate
+00DE83BC,Chennai,01-02-2002,PM2.5 (µg/m³),80.2707,13.0827,Monthly,82,Moderate
+0084148F,Delhi,01-09-2006,PM2.5 (µg/m³),77.1025,28.7041,Monthly,111,Poor
+01A7D51A,Kolkata,01-07-2007,PM10 (µg/m³),88.3639,22.5726,Monthly,75,Moderate
+0227F5B1,Delhi,01-07-2000,SO2 (ppb),77.1025,28.7041,Monthly,27,Good
+00D142E5,Mumbai,01-03-2016,PM10 (µg/m³),72.8777,19.076,Monthly,87,Moderate
+01486853,Bengaluru,01-09-2011,PM10 (µg/m³),77.5946,12.9716,Monthly,174,Very Poor
+00792E96,Kolkata,01-02-2004,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,38,Good
+024B4773,Kolkata,01-09-2000,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,71,Moderate
+006456A4,Kolkata,01-07-2023,PM10 (µg/m³),88.3639,22.5726,Monthly,155,Very Poor
+019AC9E5,Kolkata,01-03-2012,PM10 (µg/m³),88.3639,22.5726,Monthly,143,Poor
+0217D5C9,Chennai,01-05-2009,PM10 (µg/m³),80.2707,13.0827,Monthly,94,Moderate
+017D556A,Mumbai,01-11-2014,NO2 (ppb),72.8777,19.076,Monthly,19,Good
+015570B2,Chennai,01-02-2013,SO2 (ppb),80.2707,13.0827,Monthly,24,Good
+022E1C36,Kolkata,01-05-2008,PM10 (µg/m³),88.3639,22.5726,Monthly,62,Moderate
+0011968D,Bengaluru,01-02-2009,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,89,Moderate
+01E8456D,Chennai,01-10-2001,PM10 (µg/m³),80.2707,13.0827,Monthly,120,Poor
+023EA909,Mumbai,01-03-2001,PM10 (µg/m³),72.8777,19.076,Monthly,110,Poor
+01803FFD,Mumbai,01-08-2018,PM2.5 (µg/m³),72.8777,19.076,Monthly,160,Very Poor
+017C17D3,Delhi,01-11-2018,PM2.5 (µg/m³),77.1025,28.7041,Monthly,71,Moderate
+00355A42,Mumbai,01-04-2023,"Ozone (O3, ppb)",72.8777,19.076,Monthly,58,Good
+01166D69,Delhi,01-10-2008,SO2 (ppb),77.1025,28.7041,Monthly,22,Good
+00EEFF0C,Delhi,01-01-2002,NO2 (ppb),77.1025,28.7041,Monthly,47,Moderate
+0075196A,Kolkata,01-11-2017,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,55,Good
+016429FB,Bengaluru,01-05-2010,SO2 (ppb),77.5946,12.9716,Monthly,35,Moderate
+02386E36,Mumbai,01-10-2011,"Ozone (O3, ppb)",72.8777,19.076,Monthly,44,Good
+006BBE5E,Mumbai,01-02-2015,SO2 (ppb),72.8777,19.076,Monthly,9,Good
+017E9CEC,Delhi,01-03-2003,SO2 (ppb),77.1025,28.7041,Monthly,25,Good
+015AA10D,Delhi,01-07-2008,NO2 (ppb),77.1025,28.7041,Monthly,5,Good
+01051CB9,Mumbai,01-05-2017,SO2 (ppb),72.8777,19.076,Monthly,20,Good
+0179A161,Kolkata,01-08-2005,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,58,Good
+0147B24F,Bengaluru,01-09-2016,NO2 (ppb),77.5946,12.9716,Monthly,44,Moderate
+00CCBC0E,Chennai,01-06-2005,PM2.5 (µg/m³),80.2707,13.0827,Monthly,154,Very Poor
+01DD1229,Kolkata,01-04-2002,SO2 (ppb),88.3639,22.5726,Monthly,12,Good
+0288981B,Mumbai,01-10-2016,PM10 (µg/m³),72.8777,19.076,Monthly,99,Moderate
+00F99D29,Delhi,01-02-2018,SO2 (ppb),77.1025,28.7041,Monthly,17,Good
+01E6ABE9,Bengaluru,01-01-2021,PM2.5 (µg/m³),77.5946,12.9716,Monthly,87,Moderate
+0030CA33,Kolkata,01-12-2010,SO2 (ppb),88.3639,22.5726,Monthly,30,Good
+01B89275,Kolkata,01-09-2018,SO2 (ppb),88.3639,22.5726,Monthly,25,Good
+01289CDB,Chennai,01-02-2017,SO2 (ppb),80.2707,13.0827,Monthly,39,Moderate
+01EBF17B,Chennai,01-04-2021,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,73,Moderate
+00571AB5,Delhi,01-05-2011,NO2 (ppb),77.1025,28.7041,Monthly,10,Good
+018DF86D,Mumbai,01-05-2009,"Ozone (O3, ppb)",72.8777,19.076,Monthly,21,Good
+019FE946,Bengaluru,01-04-2011,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,23,Good
+028418E9,Bengaluru,01-12-2018,NO2 (ppb),77.5946,12.9716,Monthly,16,Good
+01891F92,Chennai,01-03-2002,PM2.5 (µg/m³),80.2707,13.0827,Monthly,180,Very Poor
+02361D10,Bengaluru,01-05-2002,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,58,Good
+013FD769,Kolkata,01-10-2009,PM10 (µg/m³),88.3639,22.5726,Monthly,150,Poor
+024B02E5,Bengaluru,01-07-2010,NO2 (ppb),77.5946,12.9716,Monthly,13,Good
+00F947DD,Delhi,01-02-2008,PM10 (µg/m³),77.1025,28.7041,Monthly,92,Moderate
+022959D6,Bengaluru,01-09-2001,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,41,Good
+009435F6,Delhi,01-06-2000,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,73,Moderate
+028BA36C,Mumbai,01-11-2022,SO2 (ppb),72.8777,19.076,Monthly,20,Good
+00D5BCCC,Chennai,01-09-2021,PM2.5 (µg/m³),80.2707,13.0827,Monthly,162,Very Poor
+00C629BE,Delhi,01-04-2016,SO2 (ppb),77.1025,28.7041,Monthly,41,Moderate
+0143AB7F,Mumbai,01-12-2019,PM2.5 (µg/m³),72.8777,19.076,Monthly,185,Very Poor
+017374BF,Chennai,01-09-2004,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,29,Good
+01189322,Mumbai,01-03-2006,"Ozone (O3, ppb)",72.8777,19.076,Monthly,97,Moderate
+01E7FE58,Delhi,01-06-2009,PM10 (µg/m³),77.1025,28.7041,Monthly,85,Moderate
+00B73D1D,Bengaluru,01-06-2015,PM10 (µg/m³),77.5946,12.9716,Monthly,135,Poor
+00C01817,Mumbai,01-11-2016,PM2.5 (µg/m³),72.8777,19.076,Monthly,122,Poor
+002EC874,Kolkata,01-07-2002,PM2.5 (µg/m³),88.3639,22.5726,Monthly,152,Very Poor
+0227E72F,Bengaluru,01-11-2015,SO2 (ppb),77.5946,12.9716,Monthly,34,Moderate
+00157CEA,Delhi,01-01-2021,SO2 (ppb),77.1025,28.7041,Monthly,6,Good
+02070901,Kolkata,01-12-2003,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,38,Good
+0253F81C,Bengaluru,01-10-2022,NO2 (ppb),77.5946,12.9716,Monthly,50,Moderate
+02318CEA,Bengaluru,01-09-2004,SO2 (ppb),77.5946,12.9716,Monthly,7,Good
+01E77FC0,Delhi,01-03-2018,PM2.5 (µg/m³),77.1025,28.7041,Monthly,93,Moderate
+0269063F,Delhi,01-10-2023,PM2.5 (µg/m³),77.1025,28.7041,Monthly,183,Very Poor
+028B1E1A,Chennai,01-07-2021,PM10 (µg/m³),80.2707,13.0827,Monthly,144,Poor
+01BA5948,Delhi,01-11-2020,PM2.5 (µg/m³),77.1025,28.7041,Monthly,99,Moderate
+01BFB41F,Kolkata,01-01-2023,PM2.5 (µg/m³),88.3639,22.5726,Monthly,125,Poor
+01B60AC7,Chennai,01-09-2001,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,34,Good
+0216F88F,Mumbai,01-06-2008,SO2 (ppb),72.8777,19.076,Monthly,42,Moderate
+007E8DA4,Chennai,01-11-2003,PM10 (µg/m³),80.2707,13.0827,Monthly,78,Moderate
+02265378,Kolkata,01-10-2006,NO2 (ppb),88.3639,22.5726,Monthly,12,Good
+0275780B,Kolkata,01-09-2011,NO2 (ppb),88.3639,22.5726,Monthly,20,Good
+02035353,Kolkata,01-02-2021,NO2 (ppb),88.3639,22.5726,Monthly,34,Moderate
+0017972A,Chennai,01-02-2012,NO2 (ppb),80.2707,13.0827,Monthly,19,Good
+00C588B3,Kolkata,01-10-2001,PM10 (µg/m³),88.3639,22.5726,Monthly,192,Very Poor
+015B47AE,Mumbai,01-09-2015,PM10 (µg/m³),72.8777,19.076,Monthly,117,Poor
+00F963C1,Chennai,01-05-2014,NO2 (ppb),80.2707,13.0827,Monthly,44,Moderate
+0163B154,Bengaluru,01-02-2022,"Ozone (O3, ppb)",77.5946,12.9716,Monthly,43,Good
+013921E3,Mumbai,01-07-2012,PM2.5 (µg/m³),72.8777,19.076,Monthly,141,Poor
+00333490,Bengaluru,01-02-2002,PM2.5 (µg/m³),77.5946,12.9716,Monthly,123,Poor
+0028DB9B,Bengaluru,01-07-2005,PM2.5 (µg/m³),77.5946,12.9716,Monthly,137,Poor
+0160C21F,Delhi,01-01-2022,PM10 (µg/m³),77.1025,28.7041,Monthly,106,Poor
+01C39E04,Bengaluru,01-11-2021,NO2 (ppb),77.5946,12.9716,Monthly,47,Moderate
+023B1F54,Delhi,01-07-2016,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,36,Good
+01A400DD,Kolkata,01-04-2009,PM10 (µg/m³),88.3639,22.5726,Monthly,50,Moderate
+00FBD5D8,Mumbai,01-02-2020,NO2 (ppb),72.8777,19.076,Monthly,14,Good
+00CED37B,Chennai,01-06-2019,PM2.5 (µg/m³),80.2707,13.0827,Monthly,57,Moderate
+00CCF13F,Delhi,01-09-2013,PM10 (µg/m³),77.1025,28.7041,Monthly,98,Moderate
+0148E581,Delhi,01-12-2001,SO2 (ppb),77.1025,28.7041,Monthly,36,Moderate
+00650CD4,Chennai,01-11-2010,PM10 (µg/m³),80.2707,13.0827,Monthly,162,Very Poor
+00B9EBB5,Delhi,01-05-2014,NO2 (ppb),77.1025,28.7041,Monthly,46,Moderate
+00F7D15F,Chennai,01-02-2008,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,55,Good
+0108C865,Delhi,01-05-2004,NO2 (ppb),77.1025,28.7041,Monthly,44,Moderate
+02596B15,Delhi,01-10-2002,NO2 (ppb),77.1025,28.7041,Monthly,48,Moderate
+0199CEF5,Bengaluru,01-04-2021,NO2 (ppb),77.5946,12.9716,Monthly,25,Good
+028CF50A,Chennai,01-11-2013,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,25,Good
+00754D43,Chennai,01-05-2023,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,73,Moderate
+000A1125,Bengaluru,01-11-2014,NO2 (ppb),77.5946,12.9716,Monthly,17,Good
+01CAC458,Mumbai,01-10-2001,PM2.5 (µg/m³),72.8777,19.076,Monthly,98,Moderate
+023C8292,Bengaluru,01-10-2008,PM2.5 (µg/m³),77.5946,12.9716,Monthly,123,Poor
+020D0092,Chennai,01-01-2019,PM2.5 (µg/m³),80.2707,13.0827,Monthly,179,Very Poor
+0065A309,Mumbai,01-11-2023,PM10 (µg/m³),72.8777,19.076,Monthly,143,Poor
+00321FEA,Kolkata,01-03-2023,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,30,Good
+0078FCBA,Mumbai,01-12-2007,"Ozone (O3, ppb)",72.8777,19.076,Monthly,82,Moderate
+00304FF5,Chennai,01-10-2004,PM10 (µg/m³),80.2707,13.0827,Monthly,103,Poor
+015A1C3E,Bengaluru,01-01-2012,PM10 (µg/m³),77.5946,12.9716,Monthly,139,Poor
+00271A20,Kolkata,01-02-2020,"Ozone (O3, ppb)",88.3639,22.5726,Monthly,81,Moderate
+01CB99D8,Delhi,01-03-2013,PM10 (µg/m³),77.1025,28.7041,Monthly,140,Poor
+018727CC,Mumbai,01-12-2016,SO2 (ppb),72.8777,19.076,Monthly,44,Moderate
+0086854F,Chennai,01-03-2018,NO2 (ppb),80.2707,13.0827,Monthly,7,Good
+013FBDB5,Delhi,01-11-2010,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,79,Moderate
+025754A2,Chennai,01-07-2015,SO2 (ppb),80.2707,13.0827,Monthly,41,Moderate
+00646FD8,Chennai,01-10-2012,PM2.5 (µg/m³),80.2707,13.0827,Monthly,113,Poor
+0117F163,Bengaluru,01-03-2021,PM10 (µg/m³),77.5946,12.9716,Monthly,167,Very Poor
+01CA0FD3,Delhi,01-01-2011,NO2 (ppb),77.1025,28.7041,Monthly,12,Good
+0181020B,Kolkata,01-10-2008,PM10 (µg/m³),88.3639,22.5726,Monthly,187,Very Poor
+0177FB07,Chennai,01-08-2011,NO2 (ppb),80.2707,13.0827,Monthly,31,Moderate
+0276B95A,Mumbai,01-10-2017,PM2.5 (µg/m³),72.8777,19.076,Monthly,192,Very Poor
+005A3569,Kolkata,01-01-2000,SO2 (ppb),88.3639,22.5726,Monthly,17,Good
+0244886D,Mumbai,01-11-2005,PM2.5 (µg/m³),72.8777,19.076,Monthly,114,Poor
+01047177,Kolkata,01-08-2002,NO2 (ppb),88.3639,22.5726,Monthly,14,Good
+0018BEF3,Kolkata,01-04-2010,PM2.5 (µg/m³),88.3639,22.5726,Monthly,52,Moderate
+00A10866,Chennai,01-09-2014,SO2 (ppb),80.2707,13.0827,Monthly,36,Moderate
+00BF5DAC,Bengaluru,01-09-2006,NO2 (ppb),77.5946,12.9716,Monthly,25,Good
+000A21FB,Kolkata,01-07-2008,PM2.5 (µg/m³),88.3639,22.5726,Monthly,196,Very Poor
+025B13F2,Chennai,01-06-2010,"Ozone (O3, ppb)",80.2707,13.0827,Monthly,71,Moderate
+020BA520,Delhi,01-04-2015,"Ozone (O3, ppb)",77.1025,28.7041,Monthly,26,Good
+013167A8,Kolkata,01-11-2003,SO2 (ppb),88.3639,22.5726,Monthly,8,Good
+023EA1A7,Mumbai,01-12-2001,NO2 (ppb),72.8777,19.076,Monthly,8,Good
