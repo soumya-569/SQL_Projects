@@ -51,4 +51,3 @@ sql_projects/
 │   └── employee_data.csv
 │
 └── ...
-
